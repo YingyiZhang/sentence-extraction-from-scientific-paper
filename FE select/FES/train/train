@@ -1,0 +1,7 @@
+1	This paper presents a new approach to statistical sentence generation in which alternative phrases are represented as packed sets of trees , or forests , and then ranked statistically to choose the best one .	T
+2	This representation offers advantages in compactness and in the ability to represent syntactic information .	T
+3	It also facilitates more efficient statistical ranking than a previous approach to statistical generation .	T
+4	An efficient ranking algorithm is described , together with experimental results showing significant improvements over simple enumeration or a lattice-based approach .	M
+5	This paper describes a domain independent strategy for the multimedia articulation of answers elicited by a natural language interface to database query applications .	MT
+6	Multimedia answers include videodisc images and heuristically-produced complete sentences in text or text-to-speech form .	O
+7	Deictic reference and feedback about the discourse are enabled .	O
