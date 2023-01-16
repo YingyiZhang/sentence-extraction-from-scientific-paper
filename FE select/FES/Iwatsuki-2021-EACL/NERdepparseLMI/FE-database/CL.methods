@@ -1,0 +1,1424 @@
+Description of the process	we assume that the	19
+Description of the process	we calculate the	17
+Description of the process	we also use	15
+Description of the process	we then use the	11
+Description of the process	are trained using	10
+Description of the process	we set the	10
+Description of the process	were trained on the	9
+Description of the process	we assume that	9
+Description of the process	we measure the	8
+Description of the process	we compute a	8
+Description of the process	we experiment with	8
+Description of the process	we trained a	8
+Description of the process	we experimented with	8
+Description of the process	are fed into a	8
+Description of the process	are randomly initialized	7
+Description of the process	is fed into a	7
+Description of the process	in this work we use	7
+Description of the process	is applied to the	7
+Description of the process	we also experimented with	7
+Description of the process	we would like to be able to	7
+Description of the process	is set to 1	7
+Description of the process	we train our	6
+Description of the process	we then use	6
+Description of the process	we then apply a	6
+Description of the process	we first compute the	6
+Description of the process	then we use the	6
+Description of the process	we determine the	6
+Description of the process	are concatenated and fed into a	6
+Description of the process	we used two	6
+Description of the process	in our experiments we set math-	6
+Description of the process	return the learned	6
+Description of the process	is trained to minimize the	6
+Description of the process	we perform a	6
+Description of the process	are computed using	6
+Description of the process	we also used	6
+Description of the process	we also compute the	6
+Description of the process	we used the same	6
+Description of the process	we do not use	6
+Description of the process	after training we can apply the resulting	5
+Description of the process	we maximize the	5
+Description of the process	we generate a	5
+Description of the process	returns a set of	5
+Description of the process	are then used as	5
+Description of the process	are fed into the	5
+Description of the process	in our experiments we use	5
+Description of the process	then we compute the	5
+Description of the process	we count the number of	5
+Description of the process	we concatenate the	5
+Description of the process	finally we use the	5
+Description of the process	its corresponding score is set to zero	5
+Description of the process	then we use	5
+Description of the process	we also add	5
+Description of the process	therefore we use	5
+Description of the process	we ran the	5
+Description of the process	we use both	5
+Description of the process	we also extract	5
+Description of the process	scores were measured in a macro average of	5
+Description of the process	we tested the	5
+Description of the process	we then calculate the	5
+Description of the process	are represented by	5
+Description of the process	we initialize the weights of the	5
+Description of the process	finally we add a	5
+Description of the process	we feed the	5
+Description of the process	to capture the	5
+Description of the process	we evaluate the	5
+Description of the process	this forces the	5
+Description of the process	we run the	5
+Description of the process	then we generate	5
+Description of the process	we need to be able to	5
+Description of the process	a draw a	5
+Description of the process	in this paper we assume that the	4
+Description of the process	lastly we use the	4
+Description of the process	are represented as	4
+Description of the process	it is important to note that this	4
+Description of the process	is trained on the	4
+Description of the process	we trained our	4
+Description of the process	we found that	4
+Description of the process	we first apply the	4
+Description of the process	are trained over the	4
+Description of the process	is performed using	4
+Description of the process	we train two	4
+Description of the process	we filter out	4
+Description of the process	we first train a	4
+Description of the process	we use these	4
+Description of the process	we evaluated the	4
+Description of the process	we calculated the	4
+Description of the process	in our experiments we used a	4
+Description of the process	first we extract the	4
+Description of the process	finally we use a	4
+Description of the process	are fed to a	4
+Description of the process	in this paper we only consider	4
+Description of the process	we first create a	4
+Description of the process	it is not clear how to	4
+Description of the process	its corresponding score is set to 0	4
+Description of the process	our goal is to learn a	4
+Description of the process	we performed a	4
+Description of the process	finally we apply a	4
+Description of the process	first we use the	4
+Description of the process	were then used to train a	4
+Description of the process	we then compute	4
+Description of the process	we evaluated our	4
+Description of the process	we first generate a	4
+Description of the process	we now define the	4
+Description of the process	we experimented with two	4
+Description of the process	first we build a	4
+Description of the process	we used this	4
+Description of the process	is computed as follows math-	4
+Description of the process	its possible values are true or false	4
+Description of the process	is done using	4
+Description of the process	in addition to that we use	4
+Description of the process	first we use	4
+Description of the process	this process is repeated until no	4
+Description of the process	we experiment with two	4
+Description of the process	we expect the	4
+Description of the process	here we describe the	4
+Description of the process	are then fed to a	4
+Description of the process	is passed through a	4
+Description of the process	the training objective is to minimize the	4
+Description of the process	first we consider	4
+Description of the process	we take the union of the	4
+Description of the process	then we describe the	4
+Description of the process	act like sources to push out labels through	4
+Description of the process	repeat from step 2 until math- converges	4
+Description of the process	are stored in a	4
+Description of the process	to calculate the	4
+Description of the process	figure 1 shows how the	4
+Description of the process	in this work we assume that	4
+Description of the process	we identify the	4
+Description of the process	finally we add	4
+Description of the process	it is important to be able to	4
+Description of the process	otherwise we set the cut off frequency of	4
+Description of the process	we find all the	4
+Description of the process	in our experiments we set	4
+Description of the process	we need to compute the	4
+Description of the process	in experiments we set math-	4
+Description of the process	are parameters to be learned	4
+Description of the process	often give cues that can help us answer why or how	4
+Description of the process	below we describe the details of the	3
+Description of the process	the goal of the * the probability that a candidate antecedent math- is the correct antecedent	3
+Description of the process	moreover we assume that 1 given	3
+Description of the process	we initialize all parameters with uniform values	3
+Description of the process	given a test document we process its	3
+Description of the process	our goal is to minimize the	3
+Description of the process	after each training epoch we test	3
+Description of the process	does not improve * five consecutive epochs training ends	3
+Description of the process	we implemented the following	3
+Description of the process	in our experiments we used	3
+Description of the process	we define a set of	3
+Description of the process	we assume the existence of a	3
+Description of the process	we generated two	3
+Description of the process	we train one	3
+Description of the process	we can see that the	3
+Description of the process	a translator pronounces	3
+Description of the process	the sounds are converted into	3
+Description of the process	we may want to search for the word sequence w that maximizes	3
+Description of the process	pw -- generates	3
+Description of the process	we can test each	3
+Description of the process	we do no pruning so the final	3
+Description of the process	for consistency we continue to print	3
+Description of the process	next we map	3
+Description of the process	is an inherently * r the 14 collapse onto the 5	3
+Description of the process	would be unable * express an obvious and useful generalization namely	3
+Description of the process	count up instances of its different	3
+Description of the process	scores for each pairs alignments should sum to 1	3
+Description of the process	finally we test our	3
+Description of the process	the following section describes the	3
+Description of the process	of one argument may constrain the relation type and	3
+Description of the process	we also used a	3
+Description of the process	furthermore we would like to learn these	3
+Description of the process	we then use these	3
+Description of the process	takes into account the	3
+Description of the process	enforces the following	3
+Description of the process	next we define a	3
+Description of the process	were manually de-identified by the	3
+Description of the process	finally we define	3
+Description of the process	we also apply a	3
+Description of the process	our goal is to determine whether	3
+Description of the process	we experiment with both	3
+Description of the process	in addition we used	3
+Description of the process	we initialize the	3
+Description of the process	we tune the	3
+Description of the process	is to minimize the	3
+Description of the process	we did not use	3
+Description of the process	we further use	3
+Description of the process	were set to	3
+Description of the process	in addition we apply a	3
+Description of the process	are computed as	3
+Description of the process	are trained on	3
+Description of the process	in this study we use	3
+Description of the process	we then use a	3
+Description of the process	the goal is to learn a	3
+Description of the process	which will be referred to as	3
+Description of the process	we found that the performance of the	3
+Description of the process	in addition we used the	3
+Description of the process	we first extract	3
+Description of the process	are then aggregated over all m filters into	3
+Description of the process	first we define the	3
+Description of the process	finally we define the	3
+Description of the process	we also evaluate our	3
+Description of the process	is then used to compute the	3
+Description of the process	therefore we need a	3
+Description of the process	we then add a	3
+Description of the process	we experimented with three	3
+Description of the process	we then find all	3
+Description of the process	are converted to	3
+Description of the process	the similarity among instances is measured by the	3
+Description of the process	we assign a	3
+Description of the process	we provide the	3
+Description of the process	was as follows	3
+Description of the process	are learned during training	3
+Description of the process	we remove the	3
+Description of the process	in order to overcome this problem we	3
+Description of the process	in addition we define	3
+Description of the process	again we use	3
+Description of the process	build indicators on	3
+Description of the process	are initialized to	3
+Description of the process	we also train	3
+Description of the process	are concatenated and passed through a	3
+Description of the process	we also train a	3
+Description of the process	is fed to a	3
+Description of the process	is learned in an	3
+Description of the process	additionally we use	3
+Description of the process	we used both	3
+Description of the process	we did not use any	3
+Description of the process	in decreasing order of a weighted sum of their	3
+Description of the process	in order to reduce the number of	3
+Description of the process	in order to achieve this we	3
+Description of the process	we first use a	3
+Description of the process	finally we compute the	3
+Description of the process	is performed as follows	3
+Description of the process	was trained on	3
+Description of the process	are concatenated with the	3
+Description of the process	is then used to train a	3
+Description of the process	finally we generate	3
+Description of the process	processes the input sequence in the forward direction while	3
+Description of the process	we first define the	3
+Description of the process	comments are organized sequentially according to the * the comment thread	3
+Description of the process	we trained two	3
+Description of the process	counts the number of occurrences of pairs	3
+Description of the process	enforces the constraint that all three	3
+Description of the process	is carried out through the iterative application of	3
+Description of the process	in each iteration * adequately normalized so that all dimension values sum to 1	3
+Description of the process	all represented according to a limited number of	3
+Description of the process	we then perform a	3
+Description of the process	each type of phrases np vp prp etc will	3
+Description of the process	we then define the	3
+Description of the process	we also experiment with	3
+Description of the process	we are not concerned with the	3
+Description of the process	this is done using	3
+Description of the process	we fixed the	3
+Description of the process	we developed our	3
+Description of the process	we assume that a	3
+Description of the process	we compute its	3
+Description of the process	we transform the	3
+Description of the process	is set to 100	3
+Description of the process	were created for	3
+Description of the process	below we describe the	3
+Description of the process	we also created a	3
+Description of the process	we used only	3
+Description of the process	then we extract	3
+Description of the process	to compute the	3
+Description of the process	is important for	3
+Description of the process	are then used to predict the	3
+Description of the process	in our experiments we assume that	3
+Description of the process	can probabilistically transition to * delete states as well as the	3
+Description of the process	first we perform	3
+Description of the process	we also show the	3
+Description of the process	as a result we obtain a set of	3
+Description of the process	is trained on these	3
+Description of the process	for each document math- draw a	3
+Description of the process	is computed and the	3
+Description of the process	if there is no	3
+Description of the process	tokenized words and their parts of speech	3
+Description of the process	are trained to maximize the	3
+Description of the process	will be pushed through	3
+Description of the process	is computed as a	3
+Description of the process	are expressed twice once according to the	3
+Description of the process	we first compute a	3
+Description of the process	we first discuss the	3
+Description of the process	repeatedly selects one feature each time which contributes most and stops when adding	3
+Description of the process	is performed via	3
+Description of the process	are then used to train a	3
+Description of the process	is applied to all	3
+Description of the process	we have a	3
+Description of the process	we are interested in	3
+Description of the process	first we extract	3
+Description of the process	this will be tested by comparing	3
+Description of the process	our goal is to identify	3
+Description of the process	we consider both	3
+Description of the process	we test our	3
+Description of the process	50 samples after 5000 iterations with an interval of	3
+Description of the process	we also use a	3
+Description of the process	second we use	3
+Description of the process	we sample the	3
+Description of the process	we need a	3
+Description of the process	we use one	3
+Description of the process	we maintain a	3
+Description of the process	are computed as math-	3
+Description of the process	the training objective is to maximize the	3
+Description of the process	acts as a	3
+Description of the process	it can be easily shown that	3
+Description of the process	example before after anyone someone any longer still yet	3
+Description of the process	the goal is to find the	3
+Description of the process	are smoothed using	3
+Description of the process	we then perform	3
+Description of the process	we measured the	3
+Description of the process	this helps the	3
+Description of the process	we would like our	3
+Description of the process	we carry out a	3
+Description of the process	here consistency requires that if two words are aligned in	3
+Description of the process	is uniquely determined so we can safely discard that	3
+Description of the process	are concatenated and fed to a	3
+Description of the process	to capture this we create a	3
+Description of the process	to solve the	3
+Description of the process	therefore we maximize	3
+Description of the process	our preliminary experiments we found that	3
+Description of the process	we also evaluated the	3
+Description of the process	we collected the	3
+Description of the process	hence we add	3
+Description of the process	it is easy to verify that	3
+Description of the process	we add the	3
+Description of the process	in all our experiments we set math-	3
+Description of the process	matching results truefalse between each of	3
+Description of the process	are computed as follows math-	3
+Description of the process	now we define the	3
+Description of the process	is calculated in the same way for	3
+Description of the process	math- and if math- for math- r	3
+Using methods used in past work	we propose a	106
+Using methods used in past work	is based on the	87
+Using methods used in past work	is based on	75
+Using methods used in past work	in this section we describe our	49
+Using methods used in past work	is based on a	47
+Using methods used in past work	is similar to the	33
+Using methods used in past work	in this section we present our	28
+Using methods used in past work	we propose an	28
+Using methods used in past work	cite- proposed a	26
+Using methods used in past work	consists of a	26
+Using methods used in past work	in this section we propose a	23
+Using methods used in past work	we train a	23
+Using methods used in past work	we apply the	21
+Using methods used in past work	we compute the	21
+Using methods used in past work	we employ the	21
+Using methods used in past work	we use the same	21
+Using methods used in past work	we propose a novel	20
+Using methods used in past work	is shown in	18
+Using methods used in past work	in this paper we propose a	18
+Using methods used in past work	cite- propose a	17
+Using methods used in past work	we build a	17
+Using methods used in past work	is trained using	16
+Using methods used in past work	we formulate the	15
+Using methods used in past work	we use a simple	14
+Using methods used in past work	we construct a	14
+Using methods used in past work	we apply a	14
+Using methods used in past work	we employ a	14
+Using methods used in past work	we propose a simple	14
+Using methods used in past work	is given by	13
+Using methods used in past work	in this section we describe a	13
+Using methods used in past work	we extend the	13
+Using methods used in past work	we propose a new	13
+Using methods used in past work	we model the	13
+Using methods used in past work	algorithm 1 the	13
+Using methods used in past work	is trained using the	12
+Using methods used in past work	we now describe the	12
+Using methods used in past work	works as follows	12
+Using methods used in past work	is defined as follows math- where	12
+Using methods used in past work	we develop a	11
+Using methods used in past work	is described in	11
+Using methods used in past work	in this section we present a	11
+Using methods used in past work	figure 1 proposed	11
+Using methods used in past work	consists of two	11
+Using methods used in past work	we present a	11
+Using methods used in past work	we developed a	11
+Using methods used in past work	can be written as	11
+Using methods used in past work	we follow the	10
+Using methods used in past work	we now describe our	10
+Using methods used in past work	we introduce a	10
+Using methods used in past work	we learn a	9
+Using methods used in past work	we design a	9
+Using methods used in past work	in this section we introduce a	9
+Using methods used in past work	in this section we propose our	9
+Using methods used in past work	we applied the	9
+Using methods used in past work	we optimize the	8
+Using methods used in past work	is an extension of the	8
+Using methods used in past work	is based on an	8
+Using methods used in past work	we propose to use	8
+Using methods used in past work	is defined as follows	8
+Using methods used in past work	we propose the following	8
+Using methods used in past work	we built a	8
+Using methods used in past work	we propose to use a	8
+Using methods used in past work	we implement a	8
+Using methods used in past work	is given by math-	8
+Using methods used in past work	we propose the	8
+Using methods used in past work	therefore we propose a	8
+Using methods used in past work	is implemented as a	7
+Using methods used in past work	we use a variant of the	7
+Using methods used in past work	is computed by	7
+Using methods used in past work	here we propose a	7
+Using methods used in past work	is computed as follows math- where	7
+Using methods used in past work	consists of an	7
+Using methods used in past work	is summarized in	7
+Using methods used in past work	is computed as follows	6
+Using methods used in past work	can be rewritten as	6
+Using methods used in past work	is computed using the	6
+Using methods used in past work	is inspired by the	6
+Using methods used in past work	in this work we propose a	6
+Using methods used in past work	we implement the	6
+Using methods used in past work	is defined by	6
+Using methods used in past work	proceeds as follows	6
+Using methods used in past work	is calculated as follows	6
+Using methods used in past work	algorithm 1 shows the	6
+Using methods used in past work	is computed using	6
+Using methods used in past work	consists of the following steps	6
+Using methods used in past work	we build an	5
+Using methods used in past work	we now present a	5
+Using methods used in past work	figure 1 our proposed	5
+Using methods used in past work	we designed a	5
+Using methods used in past work	in this paper we use a	5
+Using methods used in past work	builds on the	5
+Using methods used in past work	in this section we present an	5
+Using methods used in past work	cite- proposed an	5
+Using methods used in past work	is a modified version of the	5
+Using methods used in past work	in this work we propose to	5
+Using methods used in past work	we compare our	5
+Using methods used in past work	is computed by the	5
+Using methods used in past work	we can compute the	5
+Using methods used in past work	is given in algorithm 1	5
+Using methods used in past work	we describe a	5
+Using methods used in past work	we adapt the	5
+Using methods used in past work	we now describe an	5
+Using methods used in past work	in this section we present	5
+Using methods used in past work	figure 1 shows the architecture of our	5
+Using methods used in past work	is based on the assumption that the	5
+Using methods used in past work	is calculated using the	5
+Using methods used in past work	is calculated as follows math- where	5
+Using methods used in past work	is inspired by	5
+Using methods used in past work	in this section we explain our	5
+Using methods used in past work	we use a similar	5
+Using methods used in past work	we therefore propose a	5
+Using methods used in past work	we first use the	5
+Using methods used in past work	are estimated using	5
+Using methods used in past work	figure 1 the proposed	5
+Using methods used in past work	we then define a	5
+Using methods used in past work	specifically we use a	5
+Using methods used in past work	in this section we first introduce	5
+Using methods used in past work	we modify the	5
+Using methods used in past work	is trained by minimizing the	5
+Using methods used in past work	is formulated as follows	5
+Using methods used in past work	we introduce a new	5
+Using methods used in past work	in this paper we propose a novel	5
+Using methods used in past work	is based on the following	5
+Using methods used in past work	cite- introduced a	4
+Using methods used in past work	this section presents an	4
+Using methods used in past work	we follow the same	4
+Using methods used in past work	we now present the proposed	4
+Using methods used in past work	this section describes the proposed	4
+Using methods used in past work	we now describe a	4
+Using methods used in past work	we also propose a	4
+Using methods used in past work	we implemented the	4
+Using methods used in past work	we develop a new	4
+Using methods used in past work	figure 1 gives an overview of our	4
+Using methods used in past work	we first describe the	4
+Using methods used in past work	we augment the	4
+Using methods used in past work	we propose to use the	4
+Using methods used in past work	is performed using a	4
+Using methods used in past work	relies on a	4
+Using methods used in past work	we use a modified version of the	4
+Using methods used in past work	is obtained by applying the	4
+Using methods used in past work	here we propose a novel	4
+Using methods used in past work	we utilize the	4
+Using methods used in past work	can be regarded as a	4
+Using methods used in past work	we followed the	4
+Using methods used in past work	we obtain a	4
+Using methods used in past work	cite- propose an	4
+Using methods used in past work	is an extension of	4
+Using methods used in past work	in this section we propose a new	4
+Using methods used in past work	in this work we propose a novel	4
+Using methods used in past work	here we present an	4
+Using methods used in past work	in this paper we adopt the	4
+Using methods used in past work	in this paper we propose an	4
+Using methods used in past work	we propose a general	4
+Using methods used in past work	is computed using a	4
+Using methods used in past work	is summarized in algorithm 1	4
+Using methods used in past work	we introduce an	4
+Using methods used in past work	is calculated by	4
+Using methods used in past work	we find the	4
+Using methods used in past work	is based on cite-	4
+Using methods used in past work	this is similar to the	4
+Using methods used in past work	in this section we present the details of	4
+Using methods used in past work	we have implemented a	4
+Using methods used in past work	this is done by using a	4
+Using methods used in past work	introduced by cite-	4
+Using methods used in past work	is computed by a	4
+Using methods used in past work	cite- describe a	4
+Using methods used in past work	we demonstrate our	4
+Using methods used in past work	is estimated using	4
+Using methods used in past work	in this section we propose a novel	4
+Using methods used in past work	is outlined in	4
+Using methods used in past work	figure 1 architecture of our proposed	4
+Using methods used in past work	we obtain the final	4
+Using methods used in past work	we train an	4
+Using methods used in past work	here we describe a	4
+Using methods used in past work	algorithm 1 a	4
+Using methods used in past work	we approximate the	4
+Using methods used in past work	is computed using equations 15 to 17	4
+Using methods used in past work	is rewritten as	4
+Using methods used in past work	we derive a	4
+Using methods used in past work	that exactly one of * candidate antecedents is its correct antecedent we can rewrite	3
+Using methods used in past work	we can rewrite	3
+Using methods used in past work	in our work we propose a	3
+Using methods used in past work	in this paper we employ the	3
+Using methods used in past work	are generated using the	3
+Using methods used in past work	is generated for a given	3
+Using methods used in past work	suppose we build an	3
+Using methods used in past work	and suppose we build an	3
+Using methods used in past work	we adopted a simple	3
+Using methods used in past work	figure 1 shows the framework of our	3
+Using methods used in past work	are trained using the	3
+Using methods used in past work	figure 1 illustrates our	3
+Using methods used in past work	they proposed a	3
+Using methods used in past work	the notes were then manually annotated by	3
+Using methods used in past work	are implemented using the	3
+Using methods used in past work	is shown in algorithm 1	3
+Using methods used in past work	is based on the concept of	3
+Using methods used in past work	first we use a	3
+Using methods used in past work	in this section we first define	3
+Using methods used in past work	we employ the same	3
+Using methods used in past work	is based on a set of	3
+Using methods used in past work	is a variant of the	3
+Using methods used in past work	following cite- we use a	3
+Using methods used in past work	we can approximate the	3
+Using methods used in past work	based on the	3
+Using methods used in past work	is based on standard	3
+Using methods used in past work	we can build a	3
+Using methods used in past work	can be calculated as	3
+Using methods used in past work	is implemented by a	3
+Using methods used in past work	we encode this fact by constraining the	3
+Using methods used in past work	is trained in a	3
+Using methods used in past work	algorithm 2 shows the	3
+Using methods used in past work	is given in	3
+Using methods used in past work	we illustrate our	3
+Using methods used in past work	we train the proposed	3
+Using methods used in past work	figure 2 describes the	3
+Using methods used in past work	this is done using a	3
+Using methods used in past work	first we construct a	3
+Using methods used in past work	can be formalized as	3
+Using methods used in past work	we can find the	3
+Using methods used in past work	is generated by computing the	3
+Using methods used in past work	thus we can compute the	3
+Using methods used in past work	is built on top of the	3
+Using methods used in past work	we apply the same	3
+Using methods used in past work	is estimated using the	3
+Using methods used in past work	consists of the following three steps	3
+Using methods used in past work	using a structured version of the	3
+Using methods used in past work	is modeled by a	3
+Using methods used in past work	is trained with the	3
+Using methods used in past work	in this section we first explain	3
+Using methods used in past work	can be calculated in a similar way	3
+Using methods used in past work	is given by the	3
+Using methods used in past work	we calculate a	3
+Using methods used in past work	we perform a similar	3
+Using methods used in past work	previous and future context by processing the * generates two independent	3
+Using methods used in past work	is based on a standard	3
+Using methods used in past work	are learned by minimizing the	3
+Using methods used in past work	cite- proposed the	3
+Using methods used in past work	is formed by concatenating the	3
+Using methods used in past work	we can now determine a new	3
+Using methods used in past work	we have the overall	3
+Using methods used in past work	we present a new	3
+Using methods used in past work	we use the representation math- as	3
+Using methods used in past work	is formulated as a	3
+Using methods used in past work	are learned using	3
+Using methods used in past work	the toolkit relevance-based-on-parse-trees is an open-source project which evaluates	3
+Using methods used in past work	is obtained by calculating the	3
+Using methods used in past work	is determined using the	3
+Using methods used in past work	is shown as algorithm 1	3
+Using methods used in past work	can be formulated as a	3
+Using methods used in past work	we can get the	3
+Using methods used in past work	we first convert the	3
+Using methods used in past work	in this section we propose an	3
+Using methods used in past work	can be formulated as	3
+Using methods used in past work	is implemented using	3
+Using methods used in past work	are estimated by a	3
+Using methods used in past work	is an adaptation of the	3
+Using methods used in past work	we apply our	3
+Using methods used in past work	in particular we use the	3
+Using methods used in past work	the probability of * is given by marginalizing over the hidden units math-	3
+Using methods used in past work	in this paper we adopt a	3
+Using methods used in past work	is more similar to the	3
+Using methods used in past work	can be represented by a bipartite graph math-	3
+Using methods used in past work	instead we propose a	3
+Using methods used in past work	figure 2 illustration of the proposed	3
+Using methods used in past work	are computed using a	3
+Using methods used in past work	we follow a similar	3
+Using methods used in past work	acquired by splitting * l-th row and the l-th column into 4	3
+Using methods used in past work	cite- present a	3
+Using methods used in past work	is proposed in cite-	3
+Using methods used in past work	is generated using a	3
+Using methods used in past work	is calculated by taking the	3
+Using methods used in past work	is computed as a weighted sum of	3
+Using methods used in past work	is presented in	3
+Using methods used in past work	figure 1 illustrates the	3
+Using methods used in past work	in this paper we develop a	3
+Using methods used in past work	can be implemented by a	3
+Using methods used in past work	our goal is to build a	3
+Using methods used in past work	to solve this problem we propose a	3
+Using methods used in past work	is constructed as follows	3
+Using methods used in past work	in this work we propose to use	3
+Using methods used in past work	in this paper we present a	3
+Using methods used in past work	starts from a	3
+Using methods used in past work	we therefore propose a new	3
+Using methods used in past work	we present an	3
+Using methods used in past work	figure 1 overview of the proposed	3
+Using methods used in past work	we update the	3
+Using methods used in past work	we use the correspondences between	3
+Using methods used in past work	first we propose a	3
+Using methods used in past work	figure 2 illustrates the proposed	3
+Using methods used in past work	is implemented as an	3
+Using methods used in past work	we can define a	3
+Using methods used in past work	is generated by a	3
+Using methods used in past work	can be computed as	3
+Using methods used in past work	in this paper we propose to use	3
+Using methods used in past work	to this end we propose a novel	3
+Using methods used in past work	can be obtained by maximizing the	3
+Using methods used in past work	can be formulated as follows	3
+Using methods used in past work	we can determine the	3
+Using methods used in past work	in this paper we propose a new	3
+Showing methodology used in past work	we refer to this	42
+Showing methodology used in past work	we call this	41
+Showing methodology used in past work	we use two	30
+Showing methodology used in past work	we adopt a	23
+Showing methodology used in past work	we use the following	18
+Showing methodology used in past work	we consider two	16
+Showing methodology used in past work	there are two	15
+Showing methodology used in past work	in this section we present the	14
+Showing methodology used in past work	we propose two	11
+Showing methodology used in past work	there are two types of	11
+Showing methodology used in past work	can be viewed as a	11
+Showing methodology used in past work	we will refer to this	10
+Showing methodology used in past work	we consider three	10
+Showing methodology used in past work	this section describes our	9
+Showing methodology used in past work	there are several	9
+Showing methodology used in past work	we use a standard	8
+Showing methodology used in past work	there are three	8
+Showing methodology used in past work	there are two kinds of	8
+Showing methodology used in past work	we use two different	8
+Showing methodology used in past work	there are various	8
+Showing methodology used in past work	we present two	8
+Showing methodology used in past work	there are three types of	8
+Showing methodology used in past work	there are many	8
+Showing methodology used in past work	we call this the	8
+Showing methodology used in past work	has been successfully applied to	7
+Showing methodology used in past work	we explore two	7
+Showing methodology used in past work	is closely related to	7
+Showing methodology used in past work	in this section we * an overview of our	7
+Showing methodology used in past work	we consider the following	7
+Showing methodology used in past work	we use standard	7
+Showing methodology used in past work	in this section we discuss the	7
+Showing methodology used in past work	in this section we describe	7
+Showing methodology used in past work	in this section we introduce the	7
+Showing methodology used in past work	in this work we focus on	7
+Showing methodology used in past work	we will call this	7
+Showing methodology used in past work	are commonly used in	7
+Showing methodology used in past work	we define the following	7
+Showing methodology used in past work	can be thought of as a	6
+Showing methodology used in past work	we consider two types of	6
+Showing methodology used in past work	in this section we present three	6
+Showing methodology used in past work	instead we use a	6
+Showing methodology used in past work	we name this	6
+Showing methodology used in past work	we use two types of	6
+Showing methodology used in past work	we employ two	6
+Showing methodology used in past work	we describe two	6
+Showing methodology used in past work	we are not aware of any	5
+Showing methodology used in past work	table 1 summarizes the	5
+Showing methodology used in past work	are referred to as	5
+Showing methodology used in past work	we developed two	5
+Showing methodology used in past work	we propose two different	5
+Showing methodology used in past work	is defined as follows math-	5
+Showing methodology used in past work	in this section we define the	5
+Showing methodology used in past work	in this section we first describe	5
+Showing methodology used in past work	is referred to as	5
+Showing methodology used in past work	in this section we briefly review the	5
+Showing methodology used in past work	we consider three types of	5
+Showing methodology used in past work	in this section we propose two	5
+Showing methodology used in past work	is also known as	5
+Showing methodology used in past work	have been shown to be effective	5
+Showing methodology used in past work	are a family of	5
+Showing methodology used in past work	in this section we will introduce	5
+Showing methodology used in past work	are widely used in	5
+Showing methodology used in past work	are described in the following sections	5
+Showing methodology used in past work	we treat the	5
+Showing methodology used in past work	we present three	5
+Showing methodology used in past work	we investigate two	5
+Showing methodology used in past work	we follow a standard	5
+Showing methodology used in past work	this can be viewed as a	5
+Showing methodology used in past work	here we adopt the	5
+Showing methodology used in past work	in this section we describe two	5
+Showing methodology used in past work	in this section we introduce	5
+Showing methodology used in past work	we develop two	4
+Showing methodology used in past work	have been used in	4
+Showing methodology used in past work	this section presents our	4
+Showing methodology used in past work	we treat this	4
+Showing methodology used in past work	are a class of	4
+Showing methodology used in past work	we use the following notation	4
+Showing methodology used in past work	can be represented as a	4
+Showing methodology used in past work	there are other	4
+Showing methodology used in past work	we now describe	4
+Showing methodology used in past work	this section provides an overview of the	4
+Showing methodology used in past work	rely on the	4
+Showing methodology used in past work	is widely used in	4
+Showing methodology used in past work	a set of	4
+Showing methodology used in past work	relies on two	4
+Showing methodology used in past work	we take a	4
+Showing methodology used in past work	we will refer to	4
+Showing methodology used in past work	we propose three	4
+Showing methodology used in past work	is known as the	4
+Showing methodology used in past work	we will refer to the	4
+Showing methodology used in past work	we consider two different	4
+Showing methodology used in past work	is a variant of	4
+Showing methodology used in past work	in this section we will present	4
+Showing methodology used in past work	in the following sections we describe the	4
+Showing methodology used in past work	we adopt an	4
+Showing methodology used in past work	we refer to these	4
+Showing methodology used in past work	are defined similarly	4
+Showing methodology used in past work	we formalize this	4
+Showing methodology used in past work	is commonly used in	4
+Showing methodology used in past work	we call this new	4
+Showing methodology used in past work	this contrasts with previous work on	4
+Showing methodology used in past work	is known as	4
+Showing methodology used in past work	the remainder of this section we describe the	3
+Showing methodology used in past work	in this section we discuss our	3
+Showing methodology used in past work	we used several	3
+Showing methodology used in past work	unfortunately the correct answer here is	3
+Showing methodology used in past work	fortunately there are techniques for coordinating solutions to such	3
+Showing methodology used in past work	extending this notion we settled down to	3
+Showing methodology used in past work	one which searches for the best path through	3
+Showing methodology used in past work	we face two immediate problems	3
+Showing methodology used in past work	are applied in order to extract	3
+Showing methodology used in past work	in the following subsections we describe the	3
+Showing methodology used in past work	can be represented as	3
+Showing methodology used in past work	in contrast to	3
+Showing methodology used in past work	figure 1 gives an overview of	3
+Showing methodology used in past work	we call our	3
+Showing methodology used in past work	there are multiple	3
+Showing methodology used in past work	we take two	3
+Showing methodology used in past work	is one of the	3
+Showing methodology used in past work	are defined over	3
+Showing methodology used in past work	can be viewed as a generalization of	3
+Showing methodology used in past work	is known as a	3
+Showing methodology used in past work	there are four types of	3
+Showing methodology used in past work	have been used in many	3
+Showing methodology used in past work	in this section we review the	3
+Showing methodology used in past work	are explained below	3
+Showing methodology used in past work	has been shown to be effective	3
+Showing methodology used in past work	we test two	3
+Showing methodology used in past work	we experiment with three	3
+Showing methodology used in past work	there are two main differences between the	3
+Showing methodology used in past work	this section describes two	3
+Showing methodology used in past work	are adopted in our	3
+Showing methodology used in past work	we refer to a	3
+Showing methodology used in past work	we explored several	3
+Showing methodology used in past work	is a type of	3
+Showing methodology used in past work	we also consider a	3
+Showing methodology used in past work	can be viewed as	3
+Showing methodology used in past work	in this work we focus on the	3
+Showing methodology used in past work	we use are	3
+Showing methodology used in past work	in this section we * an overview of the	3
+Showing methodology used in past work	have also been used in other	3
+Showing methodology used in past work	we explored two	3
+Showing methodology used in past work	we use a combination of	3
+Showing methodology used in past work	we cast the	3
+Showing methodology used in past work	is a form of	3
+Showing methodology used in past work	in this section we discuss three	3
+Showing methodology used in past work	we designed two	3
+Showing methodology used in past work	we define three types of	3
+Showing methodology used in past work	we compare two	3
+Showing methodology used in past work	can be cast as a	3
+Showing methodology used in past work	this leads to the following	3
+Showing methodology used in past work	are a variant of	3
+Showing methodology used in past work	we then introduce our	3
+Showing methodology used in past work	we tried two different	3
+Showing methodology used in past work	we experiment with two different	3
+Showing methodology used in past work	are used with default parameters	3
+Showing methodology used in past work	we call such a	3
+Showing methodology used in past work	there are two main	3
+Showing methodology used in past work	in particular we use a	3
+Showing methodology used in past work	consists of several	3
+Showing methodology used in past work	we approach the problem of	3
+Showing methodology used in past work	have been proposed	3
+Showing methodology used in past work	is to decompose the	3
+Showing methodology used in past work	are conditionally independent given observations and labels	3
+Showing methodology used in past work	have been used	3
+Showing methodology used in past work	was to use	3
+Showing methodology used in past work	is a standard	3
+Showing methodology used in past work	in this section we describe three	3
+Showing methodology used in past work	we have used the following	3
+Showing methodology used in past work	we resort to the	3
+Showing methodology used in past work	can be viewed as a form of	3
+Showing methodology used in past work	we define two	3
+Showing methodology used in past work	have been successfully applied to various	3
+Showing methodology used in past work	play an important role in	3
+Showing methodology used in past work	we will describe the	3
+Showing methodology used in past work	the difference between the * two successive iterations * falls below a given threshold	3
+Showing methodology used in past work	the remainder of this section we describe	3
+Showing methodology used in past work	and cannot be adequately satisfied by * one of them	3
+Showing methodology used in past work	is referred to as the	3
+Showing methodology used in past work	we use three types of	3
+Showing methodology used in past work	it has been shown in previous work on	3
+Showing methodology used in past work	in particular we adopt the	3
+Showing methodology used in past work	are defined analogously	3
+Showing methodology used in past work	is precisely specified as follows	3
+Showing methodology used in past work	a family of	3
+Showing methodology used in past work	is summarized in figure 1	3
+Showing methodology used in past work	we distinguish between two types of	3
+Showing methodology used in past work	are defined as follows	3
+Showing methodology used in past work	formally we have a	3
+Showing methodology used in past work	have been used for	3
+Showing methodology used in past work	there are a number of	3
+Showing methodology used in past work	in this section we briefly introduce	3
+Showing methodology used in past work	we present an overview of our	3
+Showing methodology used in past work	requires a gold-standard in the	3
+Showing reasons why a method was adopted or rejected	is used for	25
+Showing reasons why a method was adopted or rejected	is that the	17
+Showing reasons why a method was adopted or rejected	is used as the	17
+Showing reasons why a method was adopted or rejected	are used for	12
+Showing reasons why a method was adopted or rejected	can be used for	12
+Showing reasons why a method was adopted or rejected	is used for the	12
+Showing reasons why a method was adopted or rejected	was used for	10
+Showing reasons why a method was adopted or rejected	is used as a	9
+Showing reasons why a method was adopted or rejected	we chose to use	7
+Showing reasons why a method was adopted or rejected	is used in the	7
+Showing reasons why a method was adopted or rejected	this makes the	6
+Showing reasons why a method was adopted or rejected	are used in the	6
+Showing reasons why a method was adopted or rejected	is used to train the	6
+Showing reasons why a method was adopted or rejected	is used to extract	6
+Showing reasons why a method was adopted or rejected	has the advantage that	6
+Showing reasons why a method was adopted or rejected	can be used to train	5
+Showing reasons why a method was adopted or rejected	this reduces the	5
+Showing reasons why a method was adopted or rejected	expandable and scalable for adopting more useful features aiming	5
+Showing reasons why a method was adopted or rejected	is used to represent the	5
+Showing reasons why a method was adopted or rejected	can be used as a	5
+Showing reasons why a method was adopted or rejected	is used to generate	5
+Showing reasons why a method was adopted or rejected	allows us to incorporate	4
+Showing reasons why a method was adopted or rejected	can be used as	4
+Showing reasons why a method was adopted or rejected	we choose to use a	4
+Showing reasons why a method was adopted or rejected	is the fact that	4
+Showing reasons why a method was adopted or rejected	is used to tag the	4
+Showing reasons why a method was adopted or rejected	this helps in	4
+Showing reasons why a method was adopted or rejected	is used as	4
+Showing reasons why a method was adopted or rejected	is used to model the	4
+Showing reasons why a method was adopted or rejected	also uses a	4
+Showing reasons why a method was adopted or rejected	is to use the	4
+Showing reasons why a method was adopted or rejected	is used to identify	4
+Showing reasons why a method was adopted or rejected	note that we use	4
+Showing reasons why a method was adopted or rejected	can be used to estimate the	4
+Showing reasons why a method was adopted or rejected	are used in	4
+Showing reasons why a method was adopted or rejected	the key idea is that a	4
+Showing reasons why a method was adopted or rejected	are used to represent	4
+Showing reasons why a method was adopted or rejected	can be used to create a	4
+Showing reasons why a method was adopted or rejected	are used to model the	4
+Showing reasons why a method was adopted or rejected	can be used to predict the	4
+Showing reasons why a method was adopted or rejected	is used in	4
+Showing reasons why a method was adopted or rejected	is used for both	4
+Showing reasons why a method was adopted or rejected	are used for the	4
+Showing reasons why a method was adopted or rejected	has several advantages	3
+Showing reasons why a method was adopted or rejected	differs from the	3
+Showing reasons why a method was adopted or rejected	can be used as long as	3
+Showing reasons why a method was adopted or rejected	into account improves this to a more plausible-looking isclim	3
+Showing reasons why a method was adopted or rejected	would look a bit different	3
+Showing reasons why a method was adopted or rejected	is used to calculate	3
+Showing reasons why a method was adopted or rejected	is useful for	3
+Showing reasons why a method was adopted or rejected	includes additions such as new	3
+Showing reasons why a method was adopted or rejected	can be extended to	3
+Showing reasons why a method was adopted or rejected	allows to incorporate external sources of information * the form of	3
+Showing reasons why a method was adopted or rejected	cite- used a	3
+Showing reasons why a method was adopted or rejected	has been used for	3
+Showing reasons why a method was adopted or rejected	is used to combine	3
+Showing reasons why a method was adopted or rejected	can also be applied to	3
+Showing reasons why a method was adopted or rejected	we chose to use the	3
+Showing reasons why a method was adopted or rejected	we have used	3
+Showing reasons why a method was adopted or rejected	we could use	3
+Showing reasons why a method was adopted or rejected	reduces the size of the	3
+Showing reasons why a method was adopted or rejected	is used to train a	3
+Showing reasons why a method was adopted or rejected	makes use of a	3
+Showing reasons why a method was adopted or rejected	are used to train the	3
+Showing reasons why a method was adopted or rejected	is used to predict the	3
+Showing reasons why a method was adopted or rejected	is used to represent	3
+Showing reasons why a method was adopted or rejected	it will be convenient to use	3
+Showing reasons why a method was adopted or rejected	this is due to the fact that	3
+Showing reasons why a method was adopted or rejected	is used to cluster the	3
+Showing reasons why a method was adopted or rejected	were used to characterize such	3
+Showing reasons why a method was adopted or rejected	can be used to build a	3
+Showing reasons why a method was adopted or rejected	is used to create	3
+Showing reasons why a method was adopted or rejected	is that the number of	3
+Showing reasons why a method was adopted or rejected	can be applied to	3
+Showing reasons why a method was adopted or rejected	this provides a	3
+Showing reasons why a method was adopted or rejected	is used to calculate the	3
+Showing reasons why a method was adopted or rejected	can capture the	3
+Showing reasons why a method was adopted or rejected	is that if the	3
+Showing reasons why a method was adopted or rejected	we choose to use	3
+Showing reasons why a method was adopted or rejected	can be used to train the	3
+Showing reasons why a method was adopted or rejected	larger edge weights allow labels to travel through easier	3
+Showing reasons why a method was adopted or rejected	is used to obtain	3
+Showing reasons why a method was adopted or rejected	is used to provide the	3
+Showing reasons why a method was adopted or rejected	reduces the number of	3
+Showing reasons why a method was adopted or rejected	can be used to define a	3
+Showing reasons why a method was adopted or rejected	allows us to deal with	3
+Showing reasons why a method was adopted or rejected	was used to train the	3
+Showing reasons why a method was adopted or rejected	is used to identify the	3
+Showing reasons why a method was adopted or rejected	it should be noted that our	3
+Showing reasons why a method was adopted or rejected	note that this is a	3
+Showing reasons why a method was adopted or rejected	is used to avoid	3
+Showing reasons why a method was adopted or rejected	is used to learn	3
+Showing reasons why a method was adopted or rejected	does not take into account the	3
+Showing reasons why a method was adopted or rejected	not only provides a	3
+Showing reasons why a method was adopted or rejected	the only difference is that the	3
+Showing reasons why a method was adopted or rejected	is used to capture the	3
+Showing reasons why a method was adopted or rejected	is used to perform	3
+Showing reasons why a method was adopted or rejected	could be used for	3
+Showing reasons why a method was adopted or rejected	is used as an	3
+Showing the characteristics of samples or data	are shown in table 1	10
+Showing the characteristics of samples or data	are added to the	7
+Showing the characteristics of samples or data	submission are marked with an asterisk	7
+Showing the characteristics of samples or data	are listed in table 1	6
+Showing the characteristics of samples or data	are shown in table 2	6
+Showing the characteristics of samples or data	table 1 shows the distribution of	5
+Showing the characteristics of samples or data	we divide the	5
+Showing the characteristics of samples or data	this resulted in a	5
+Showing the characteristics of samples or data	we include in this class the	5
+Showing the characteristics of samples or data	into training development and test sets	4
+Showing the characteristics of samples or data	100 adjectives nouns verbs with frequency	4
+Showing the characteristics of samples or data	can be divided into three categories	4
+Showing the characteristics of samples or data	are shown in table 3	4
+Showing the characteristics of samples or data	are removed from the	4
+Showing the characteristics of samples or data	thus we include	4
+Showing the characteristics of samples or data	training validation and test sets contain	4
+Showing the characteristics of samples or data	should be included in the compression if the	4
+Showing the characteristics of samples or data	do not include the	3
+Showing the characteristics of samples or data	were used in the	3
+Showing the characteristics of samples or data	this divides our	3
+Showing the characteristics of samples or data	would prefer exactly those strings * are actually grist for	3
+Showing the characteristics of samples or data	did not match the performance of	3
+Showing the characteristics of samples or data	includes 39 symbols 5 vowel sounds 33	3
+Showing the characteristics of samples or data	wished they had--both involved turning english y uwinto japanese u * ah l ey	3
+Showing the characteristics of samples or data	table 1 shows the number of documents	3
+Showing the characteristics of samples or data	are replaced by	3
+Showing the characteristics of samples or data	we also included	3
+Showing the characteristics of samples or data	there are four	3
+Showing the characteristics of samples or data	are conjoined with the	3
+Showing the characteristics of samples or data	are incorporated into the	3
+Showing the characteristics of samples or data	are listed as follows	3
+Showing the characteristics of samples or data	nouns verbs adjectives and adverbs are grouped into	3
+Showing the characteristics of samples or data	we call these	3
+Showing the characteristics of samples or data	it is interesting to note that	3
+Showing the characteristics of samples or data	are also included	3
+Showing the characteristics of samples or data	we include all	3
+Showing the characteristics of samples or data	table 3 distribution of	3
+Showing the characteristics of samples or data	we divide the task of	3
+Showing the characteristics of samples or data	can be divided into	3
+Showing the characteristics of samples or data	are defined as	3
+Showing the characteristics of samples or data	consists of three parts	3
+Showing the characteristics of samples or data	only a small subset of the	3
+Showing the characteristics of samples or data	we split the	3
+Showing the characteristics of samples or data	complements are generated they are removed from the appropriate subcat multiset	3
+Showing the characteristics of samples or data	consists of two components	3
+Showing the characteristics of samples or data	words that are not included in the	3
+Showing the characteristics of samples or data	yield the highest	3
+Showing the characteristics of samples or data	are contained in the set math-	3
+Showing the characteristics of samples or data	our annotators were selected from over 30 applicants who were familiarized	3
+Showing the characteristics of samples or data	are divided into two types	3
+Showing the characteristics of samples or data	lower scores are better	3
+Showing the characteristics of samples or data	are not included in the	3
+Showing the characteristics of samples or data	table 3 shows the number of essays that receive	3
+Showing the characteristics of samples or data	external to the	3
+Showing criteria for selection	figure 1 the	52
+Showing criteria for selection	is shown in figure 1	49
+Showing criteria for selection	figure 2 the	36
+Showing criteria for selection	figure 1 a	34
+Showing criteria for selection	is a set of	33
+Showing criteria for selection	is shown in figure 2	27
+Showing criteria for selection	figure 1 shows a	26
+Showing criteria for selection	is a collection of	24
+Showing criteria for selection	figure 2 a	23
+Showing criteria for selection	table 1 the	23
+Showing criteria for selection	figure 1 shows the	22
+Showing criteria for selection	figure 3 the	20
+Showing criteria for selection	is the set of	20
+Showing criteria for selection	figure 1 example of	20
+Showing criteria for selection	for example consider the	20
+Showing criteria for selection	is illustrated in figure 1	19
+Showing criteria for selection	are extracted from the	19
+Showing criteria for selection	figure 2 shows the	19
+Showing criteria for selection	figure 2 an example of	18
+Showing criteria for selection	figure 3 a	18
+Showing criteria for selection	figure 1 an example of	18
+Showing criteria for selection	is represented by a	17
+Showing criteria for selection	table 2 examples of	16
+Showing criteria for selection	figure 1 shows an example of	16
+Showing criteria for selection	figure 1 an example	16
+Showing criteria for selection	table 1 examples of	15
+Showing criteria for selection	is represented as a	14
+Showing criteria for selection	consists of the	14
+Showing criteria for selection	figure 3 shows an example of	13
+Showing criteria for selection	figure 2 example of	13
+Showing criteria for selection	is shown in figure 3	13
+Showing criteria for selection	is composed of	12
+Showing criteria for selection	figure 2 illustrates the	12
+Showing criteria for selection	figure 1 example	12
+Showing criteria for selection	figure 2 shows an example of	12
+Showing criteria for selection	we consider the	12
+Showing criteria for selection	is associated with a	12
+Showing criteria for selection	figure 2 examples of	12
+Showing criteria for selection	math- is the	12
+Showing criteria for selection	is called the	12
+Showing criteria for selection	is derived from the	11
+Showing criteria for selection	table 1 statistics of the	11
+Showing criteria for selection	table 1 example	11
+Showing criteria for selection	is drawn from a	11
+Showing criteria for selection	corresponds to the	11
+Showing criteria for selection	is a sequence of	11
+Showing criteria for selection	we add a	10
+Showing criteria for selection	table 1 example of	10
+Showing criteria for selection	consider the following example	10
+Showing criteria for selection	figure 1 shows an example	10
+Showing criteria for selection	is added to the	10
+Showing criteria for selection	are extracted from	10
+Showing criteria for selection	2 we use the	10
+Showing criteria for selection	were extracted from the	10
+Showing criteria for selection	figure 1 example of a	10
+Showing criteria for selection	figure 2 an example	10
+Showing criteria for selection	figure 4 the	9
+Showing criteria for selection	an example is shown in figure 1	9
+Showing criteria for selection	is depicted in figure 2	9
+Showing criteria for selection	are derived from	9
+Showing criteria for selection	table 1 shows an example of	9
+Showing criteria for selection	see cite- for more details	9
+Showing criteria for selection	we also include the	9
+Showing criteria for selection	math- represents the	9
+Showing criteria for selection	figure 2 shows a	8
+Showing criteria for selection	is given in figure 1	8
+Showing criteria for selection	is called a	8
+Showing criteria for selection	table 1 an example of	8
+Showing criteria for selection	2 available at	8
+Showing criteria for selection	details can be found in cite-	8
+Showing criteria for selection	figure 1 sample	8
+Showing criteria for selection	figure 3 example of a	8
+Showing criteria for selection	consists of a set of	8
+Showing criteria for selection	we choose the	8
+Showing criteria for selection	figure 4 a	8
+Showing criteria for selection	table 2 the	8
+Showing criteria for selection	figure 2 shows an example	8
+Showing criteria for selection	table 2 example	8
+Showing criteria for selection	see figure 1 for an example	8
+Showing criteria for selection	is denoted by	7
+Showing criteria for selection	can be seen in figure 1	7
+Showing criteria for selection	an example is shown in figure 2	7
+Showing criteria for selection	for our experiments we use the	7
+Showing criteria for selection	table 1 list of	7
+Showing criteria for selection	is depicted in figure 1	7
+Showing criteria for selection	we refer to the	7
+Showing criteria for selection	come from the	7
+Showing criteria for selection	this yields a	7
+Showing criteria for selection	can be found in cite-	7
+Showing criteria for selection	are generated from	7
+Showing criteria for selection	figure 3 an example	7
+Showing criteria for selection	is annotated with	7
+Showing criteria for selection	is denoted as	7
+Showing criteria for selection	corresponds to a	7
+Showing criteria for selection	table 1 statistics of datasets	6
+Showing criteria for selection	table 1 statistics of	6
+Showing criteria for selection	beyond the scope of this paper	6
+Showing criteria for selection	figure 3 an example of	6
+Showing criteria for selection	figure 4 an example of	6
+Showing criteria for selection	figure 1 an	6
+Showing criteria for selection	table 5 shows the	6
+Showing criteria for selection	table 1 results on	6
+Showing criteria for selection	figure 3 illustrates the	6
+Showing criteria for selection	is the number of	6
+Showing criteria for selection	an example of	6
+Showing criteria for selection	figure 2 shows an example of an	6
+Showing criteria for selection	we collected a	6
+Showing criteria for selection	we refer the reader to cite-	6
+Showing criteria for selection	figure 1 examples of	6
+Showing criteria for selection	for further details see cite-	6
+Showing criteria for selection	can be found in the supplementary material	6
+Showing criteria for selection	1 available at	6
+Showing criteria for selection	we denote by	6
+Showing criteria for selection	figure 2 sample	6
+Showing criteria for selection	for this purpose we used the	5
+Showing criteria for selection	are learned from	5
+Showing criteria for selection	is given in figure 2	5
+Showing criteria for selection	table 1 presents the	5
+Showing criteria for selection	figure 1 illustration of the	5
+Showing criteria for selection	for example the	5
+Showing criteria for selection	table 2 example of	5
+Showing criteria for selection	in our experiments we used the	5
+Showing criteria for selection	we also include a	5
+Showing criteria for selection	is the set of all	5
+Showing criteria for selection	is constructed from the	5
+Showing criteria for selection	table 1 shows	5
+Showing criteria for selection	we make use of the	5
+Showing criteria for selection	table 1 summary of	5
+Showing criteria for selection	is shown in figure 5	5
+Showing criteria for selection	table 2 shows	5
+Showing criteria for selection	is extracted from the	5
+Showing criteria for selection	is generated from the	5
+Showing criteria for selection	is shown in table 1	5
+Showing criteria for selection	can be found in table 1	5
+Showing criteria for selection	see figure 2 for an example	5
+Showing criteria for selection	table 2 results on the	5
+Showing criteria for selection	figure 2 an	5
+Showing criteria for selection	3 we use	5
+Showing criteria for selection	is mapped to a	5
+Showing criteria for selection	were extracted from	5
+Showing criteria for selection	are constructed from	5
+Showing criteria for selection	figure 4 shows an example of	5
+Showing criteria for selection	is illustrated in figure 2	5
+Showing criteria for selection	are drawn from a	5
+Showing criteria for selection	table 1 data statistics	5
+Showing criteria for selection	trained on the	5
+Showing criteria for selection	figure 1 an illustration of	5
+Showing criteria for selection	2 we used the	5
+Showing criteria for selection	table 1 results for	5
+Showing criteria for selection	are taken from the	5
+Showing criteria for selection	figure 4 shows the	5
+Showing criteria for selection	is shown below	5
+Showing criteria for selection	consider the following sentence	5
+Showing criteria for selection	figure 3 shows an example	5
+Showing criteria for selection	an example of a	5
+Showing criteria for selection	table 2 statistics for the	5
+Showing criteria for selection	see figure 1 for an illustration	5
+Showing criteria for selection	let us consider the	5
+Showing criteria for selection	is available at	4
+Showing criteria for selection	is the average of the	4
+Showing criteria for selection	we have chosen the	4
+Showing criteria for selection	table 2 shows an example of	4
+Showing criteria for selection	this is the	4
+Showing criteria for selection	figure 2 an illustration of	4
+Showing criteria for selection	is in the form of	4
+Showing criteria for selection	is computed as the sum of the	4
+Showing criteria for selection	can be seen in table 1	4
+Showing criteria for selection	is a list of	4
+Showing criteria for selection	is computed as the	4
+Showing criteria for selection	table 1 summary of the	4
+Showing criteria for selection	have been omitted for clarity	4
+Showing criteria for selection	between math- and math-	4
+Showing criteria for selection	consist of the	4
+Showing criteria for selection	was trained on the	4
+Showing criteria for selection	table 3 comparison of	4
+Showing criteria for selection	refers to the	4
+Showing criteria for selection	on the left side and right side of the target entity	4
+Showing criteria for selection	are derived from the	4
+Showing criteria for selection	figure 1 depicts the	4
+Showing criteria for selection	is denoted as math-	4
+Showing criteria for selection	4 available at	4
+Showing criteria for selection	is a large	4
+Showing criteria for selection	this corresponds to a	4
+Showing criteria for selection	figure 1 shows an example of an	4
+Showing criteria for selection	table 3 sample	4
+Showing criteria for selection	is the sum of the	4
+Showing criteria for selection	we extract a set of	4
+Showing criteria for selection	figure 3 example of	4
+Showing criteria for selection	figure 5 example of	4
+Showing criteria for selection	these include the	4
+Showing criteria for selection	we refer the reader to cite- for details	4
+Showing criteria for selection	we will use the	4
+Showing criteria for selection	are provided by	4
+Showing criteria for selection	of all tokens in the event	4
+Showing criteria for selection	table 2 summary of	4
+Showing criteria for selection	for more details see cite-	4
+Showing criteria for selection	table 1 test sets at	4
+Showing criteria for selection	table 1 a	4
+Showing criteria for selection	a choose a topic math-	4
+Showing criteria for selection	is defined as a	4
+Showing criteria for selection	table 3 results for	4
+Showing criteria for selection	is the output of the	4
+Showing criteria for selection	is shown in figure 4	4
+Showing criteria for selection	table 1 statistics on the	4
+Showing criteria for selection	was set to math-	4
+Showing criteria for selection	also includes a	4
+Showing criteria for selection	is the total number of	4
+Showing criteria for selection	the input to the * treated as a sequence of words	4
+Showing criteria for selection	is set to the	4
+Showing criteria for selection	are estimated from the	4
+Showing criteria for selection	whether the tweet contains more than one	4
+Showing criteria for selection	table 1 statistics for the	4
+Showing criteria for selection	4 we use the	4
+Showing criteria for selection	there exists a	4
+Showing criteria for selection	table 1 examples from the	4
+Showing criteria for selection	also includes a set of	4
+Showing criteria for selection	is associated with	4
+Showing criteria for selection	goal is to * according to their * with respect to the	4
+Showing criteria for selection	is a pair math- where	4
+Showing criteria for selection	figure 1 a sample	4
+Showing criteria for selection	has the form math-	4
+Showing criteria for selection	figure 1 our	4
+Showing criteria for selection	table 2 lists the	4
+Showing criteria for selection	that is math- where	4
+Showing criteria for selection	is obtained from a	4
+Showing criteria for selection	we include the	4
+Showing criteria for selection	does the word include a	4
+Showing criteria for selection	4 we use	4
+Showing criteria for selection	is extracted from	4
+Showing criteria for selection	was extracted from the	4
+Showing criteria for selection	figure 2 our	4
+Showing criteria for selection	figure 2 example	4
+Showing criteria for selection	the first term in	4
+Showing criteria for selection	for example in figure 1 math-	4
+Showing criteria for selection	stands for the	4
+Showing criteria for selection	is motivated by the	4
+Showing criteria for selection	is the concatenation of	4
+Showing criteria for selection	may or may not contain	4
+Showing criteria for selection	augmented with the	4
+Showing criteria for selection	is a finite set of	4
+Showing criteria for selection	are given in table 1	4
+Showing criteria for selection	figure 1 a screenshot of the	4
+Showing criteria for selection	figure 1 presents a	3
+Showing criteria for selection	is computed as math-	3
+Showing criteria for selection	contains a number of	3
+Showing criteria for selection	table 1 results for the	3
+Showing criteria for selection	is the set of possible	3
+Showing criteria for selection	figure 3 example	3
+Showing criteria for selection	we refer to this set of	3
+Showing criteria for selection	refer to the	3
+Showing criteria for selection	this creates a	3
+Showing criteria for selection	table 6 the	3
+Showing criteria for selection	the third group of hidden nodes math- which we call	3
+Showing criteria for selection	is set up to contribute to mutual understanding between	3
+Showing criteria for selection	this is represented as a	3
+Showing criteria for selection	table 1 summary of training data	3
+Showing criteria for selection	was done with the	3
+Showing criteria for selection	an english phrase is written	3
+Showing criteria for selection	the result is a large containing all possible	3
+Showing criteria for selection	our 262000-entry frequency list draws its words and phrases	3
+Showing criteria for selection	what is the target	3
+Showing criteria for selection	obvious target inventory * itself written down in katakana * roman equivalent eg	3
+Showing criteria for selection	learned automatically from 8000 pairs of	3
+Showing criteria for selection	goes like this	3
+Showing criteria for selection	we constructed a	3
+Showing criteria for selection	in addition to the * the sum of the	3
+Showing criteria for selection	the training corpus has been provided by	3
+Showing criteria for selection	we select a	3
+Showing criteria for selection	figure 2 shows an overview of the	3
+Showing criteria for selection	table 2 results on	3
+Showing criteria for selection	used in the	3
+Showing criteria for selection	there is only one	3
+Showing criteria for selection	is estimated from the	3
+Showing criteria for selection	were distributed separately from * an open source repository 2 using	3
+Showing criteria for selection	is derived from	3
+Showing criteria for selection	table 2 evaluation of the	3
+Showing criteria for selection	figure 4 shows an example	3
+Showing criteria for selection	is a freely available	3
+Showing criteria for selection	example is shown in figure 1	3
+Showing criteria for selection	table 3 shows an example of	3
+Showing criteria for selection	table 3 number of	3
+Showing criteria for selection	is available from the	3
+Showing criteria for selection	table 3 additional	3
+Showing criteria for selection	figure 1 shows our	3
+Showing criteria for selection	is given below	3
+Showing criteria for selection	is associated with a set of	3
+Showing criteria for selection	is the number of times	3
+Showing criteria for selection	table 2 an example of	3
+Showing criteria for selection	the length of the parts before and after	3
+Showing criteria for selection	figure 1 shows an example from	3
+Showing criteria for selection	is a subset of math-	3
+Showing criteria for selection	details can be found in the supplementary material	3
+Showing criteria for selection	corresponds to an	3
+Showing criteria for selection	span of text which can be mapped to a	3
+Showing criteria for selection	was collected from	3
+Showing criteria for selection	we extract all	3
+Showing criteria for selection	we obtained a	3
+Showing criteria for selection	figure 3 illustration of the	3
+Showing criteria for selection	is a version of the	3
+Showing criteria for selection	figure 5 a	3
+Showing criteria for selection	an example of the	3
+Showing criteria for selection	this is a	3
+Showing criteria for selection	this is computed using	3
+Showing criteria for selection	is a part of the	3
+Showing criteria for selection	table 5 results for	3
+Showing criteria for selection	figure 2 illustrates this	3
+Showing criteria for selection	depends on the	3
+Showing criteria for selection	is trained on a	3
+Showing criteria for selection	we use their	3
+Showing criteria for selection	are obtained from the	3
+Showing criteria for selection	table 1 sample	3
+Showing criteria for selection	table 2 list of	3
+Showing criteria for selection	table 2 shows some examples of	3
+Showing criteria for selection	figure 1 an example of a	3
+Showing criteria for selection	the parameter math- is the	3
+Showing criteria for selection	the second term of eq	3
+Showing criteria for selection	there is an	3
+Showing criteria for selection	shown in figure 1 illustrates the	3
+Showing criteria for selection	table 1 number of documents	3
+Showing criteria for selection	we used the latest version of the	3
+Showing criteria for selection	table 2 summary of the	3
+Showing criteria for selection	figure 1 depicts a	3
+Showing criteria for selection	consider for example the following	3
+Showing criteria for selection	taken from the	3
+Showing criteria for selection	note that this	3
+Showing criteria for selection	table 1 details of the	3
+Showing criteria for selection	see cite- for more details on	3
+Showing criteria for selection	table 3 the	3
+Showing criteria for selection	are provided by a	3
+Showing criteria for selection	is a vector of	3
+Showing criteria for selection	table 3 annotation examples	3
+Showing criteria for selection	identify the first the middle and the last comments by	3
+Showing criteria for selection	each word has a	3
+Showing criteria for selection	we have described the process by which one	3
+Showing criteria for selection	for more details please refer to cite-	3
+Showing criteria for selection	in this paper we used the	3
+Showing criteria for selection	is a pair of	3
+Showing criteria for selection	is shown as a	3
+Showing criteria for selection	table 1 the set of	3
+Showing criteria for selection	table 3 list of	3
+Showing criteria for selection	figure 4 overview of the	3
+Showing criteria for selection	figure 1 graphical representation of the	3
+Showing criteria for selection	figure 3 a fragment of the	3
+Showing criteria for selection	figure 1 plate diagram of the	3
+Showing criteria for selection	figure 6 example	3
+Showing criteria for selection	as an example consider the	3
+Showing criteria for selection	let math- be the vocabulary math- the set of	3
+Showing criteria for selection	these negative examples are chosen from	3
+Showing criteria for selection	beyond the scope of this work	3
+Showing criteria for selection	here we used	3
+Showing criteria for selection	table 3 example	3
+Showing criteria for selection	is a distribution over	3
+Showing criteria for selection	does not contain any	3
+Showing criteria for selection	figure 1 illustrates an example	3
+Showing criteria for selection	we used data from the	3
+Showing criteria for selection	figure 1 shows a high-level view of	3
+Showing criteria for selection	are mapped to the	3
+Showing criteria for selection	is shown in table 2	3
+Showing criteria for selection	outside the scope of this paper	3
+Showing criteria for selection	3 we used the	3
+Showing criteria for selection	are extracted using the	3
+Showing criteria for selection	figure 4 illustrates the	3
+Showing criteria for selection	see cite- for further details	3
+Showing criteria for selection	are extracted from a	3
+Showing criteria for selection	were drawn from the	3
+Showing criteria for selection	figure 3 an example of a	3
+Showing criteria for selection	is depicted in figure 3	3
+Showing criteria for selection	we adopted the	3
+Showing criteria for selection	consider for example the	3
+Showing criteria for selection	an example is shown in table 1	3
+Showing criteria for selection	are obtained from	3
+Showing criteria for selection	5 we use the	3
+Showing criteria for selection	table 1 an example of a	3
+Showing criteria for selection	is a virus is very high because	3
+Showing criteria for selection	are generated from a	3
+Showing criteria for selection	is set to 1 if the tweet contains a	3
+Showing criteria for selection	table 2 statistics about the	3
+Showing criteria for selection	are generated from the	3
+Showing criteria for selection	we construct the	3
+Showing criteria for selection	next for each of * math- in document math- * is first drawn from a	3
+Showing criteria for selection	where enclosing words * searching for an exact * wildcard for exactly one arbitrary	3
+Showing criteria for selection	is the only	3
+Showing criteria for selection	we get the	3
+Showing criteria for selection	an example of the language generated is	3
+Showing criteria for selection	feature set dev r test r	3
+Showing criteria for selection	table 2 results for	3
+Showing criteria for selection	figure 1 gives the	3
+Showing criteria for selection	figure 7 the	3
+Showing criteria for selection	we refer the interested reader to cite-	3
+Showing criteria for selection	the bolded values show the best	3
+Showing criteria for selection	figure 5 an example	3
+Showing criteria for selection	is represented by the	3
+Showing criteria for selection	and a body text as well as the	3
+Showing criteria for selection	is presented in figure 1	3
+Showing criteria for selection	3 available at	3
+Showing criteria for selection	is a weighted sum of the	3
+Showing criteria for selection	can be found on	3
+Showing criteria for selection	bold identifies best performance results	3
+Showing criteria for selection	is consistent with the labeling in	3
+Showing criteria for selection	cite- consists of	3
+Showing criteria for selection	for more information see cite-	3
+Showing criteria for selection	figure 1 screenshot of the	3
+Showing criteria for selection	3 we use the	3
+Showing criteria for selection	figure 2 example of an	3
+Showing criteria for selection	can be found in cite- and cite-	3
+Showing criteria for selection	the set of	3
+Showing criteria for selection	is a corpus of	3
+Showing criteria for selection	table 3 lists the	3
+Showing criteria for selection	comes from the	3
+Showing criteria for selection	math- is math-	3
+Showing criteria for selection	figure 7 a	3
+Showing criteria for selection	are also extracted from the	3
+Showing criteria for selection	is the number of times word	3
+Showing criteria for selection	for each tag draw a	3
+Showing criteria for selection	figure 1 an illustration of the	3
+Showing criteria for selection	figure 1 an example of the	3
+Showing criteria for selection	figure 1 an illustration of our	3
+Showing criteria for selection	is illustrated in fig 3	3
+Showing criteria for selection	figure 3 shows a	3
+Showing criteria for selection	is modeled on a subset of nodes	3
+Showing criteria for selection	we then select the	3
+Showing criteria for selection	is sampled from a	3
+Showing criteria for selection	is shown in figure 1 and	3
+Showing criteria for selection	is a parent to	3
+Showing criteria for selection	for example figure 3 shows the	3
+Showing criteria for selection	figure 2 example of a	3
+Showing criteria for selection	table 3 examples of	3
+Showing criteria for selection	see text for details	3
+Showing criteria for selection	table 3 shows	3
+Showing criteria for selection	as an example consider a	3
+Showing criteria for selection	is the number of words in	3
+Showing criteria for selection	table 1 example of a	3
+Showing criteria for selection	figure 3 a sample	3
+Showing criteria for selection	following we will refer to this	3
+Showing criteria for selection	this instance is presented to the	3
+Showing criteria for selection	the following example illustrates this point	3
+Showing criteria for selection	refers to an	3
+Showing criteria for selection	first message about reply sample file	3
+Showing criteria for selection	a more detailed * can be found in cite-	3
+Showing criteria for selection	is there a	3
+Showing criteria for selection	see again figure 5	3
+Showing criteria for selection	the example in figure 3 has * num 1 num	3
+Showing criteria for selection	the experiments reported in this paper we use the	3
+Showing criteria for selection	table 2 descriptions of the meaning of scores	3
+Showing criteria for selection	we also include an	3
+Showing criteria for selection	length of the	3
+Showing criteria for selection	the brow lowerer within * utterance being sent * the most recent three utterances	3
+Showing criteria for selection	of the deepest common ancestor	3
+Showing criteria for selection	is inspired by cite-	3
+Showing criteria for selection	is computed on the search results of the training set as	3
+Showing criteria for selection	a cat is sitting on the fence	3
