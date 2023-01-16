@@ -51,7 +51,7 @@ use <code>python acl_annoAugment.py</code>
 6.  --unigramFE Augmenter:keywords
 7.  --N-gramFE Augmenter:FEs
 
-# To conduct unigram FE selection
+## To conduct unigram FE selection
 use 
 *  <code>python getFEsPattern.py</code>
 *  <code>python acl_annoAugment.py</code> and select unigramFE Augmenter in the code
