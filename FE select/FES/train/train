@@ -5,3 +5,296 @@
 5	This paper describes a domain independent strategy for the multimedia articulation of answers elicited by a natural language interface to database query applications .	MT
 6	Multimedia answers include videodisc images and heuristically-produced complete sentences in text or text-to-speech form .	O
 7	Deictic reference and feedback about the discourse are enabled .	O
+8	The interface thus presents the application as cooperative and conversational .	O
+9	In this paper , we describe the pronominal anaphora resolution module of Lucy , a portable English understanding system .	M
+10	The design of this module was motivated by the observation that , although there exist many theories of anaphora resolution , no one of these theories is complete .	T
+11	Thus we have implemented a blackboard-like architecture in which individual partial theories can be encoded as separate modules that can interact to propose candidate antecedents and to evaluate each other 's proposals .	MT
+12	In our current research into the design of cognitively well-motivated interfaces relying primarily on the display of graphical information , we have observed that graphical information alone does not provide sufficient support to users - particularly when situations arise that do not simply conform to the users ' expectations .	MT
+13	This can occur due to too much information being requested , too little , information of the wrong kind , etc. .	O
+14	To solve this problem , we are working towards the integration of natural language generation to augment the interaction	T
+15	A meaningful evaluation methodology can advance the state-of-the-art by encouraging mature , practical applications rather than `` toy '' implementations .	MT
+16	Evaluation is also crucial to assessing competing claims and identifying promising technical approaches .	MT
+17	While work in speech recognition -LRB- SR -RRB- has a history of evaluation methodologies that permit comparison among various systems , until recently no methodology existed for either developers of natural language -LRB- NL -RRB- interfaces or researchers in speech understanding -LRB- SU -RRB- to evaluate and compare the systems they developed .	MT
+18	Recently considerable progress has been made by a number of groups involved in the DARPA Spoken Language Systems -LRB- SLS -RRB- program to agree on a methodology for comparative evaluation of SLS systems , and that methodology has been put into practice several times in comparative tests of several SLS systems .	MT
+19	These evaluations are probably the only NL evaluations other than the series of Message Understanding Conferences -LRB- Sundheim , 1989 ; Sundheim , 1991 -RRB- to have been developed and used by a group of researchers at different sites , although several excellent workshops have been held to study some of these problems -LRB- Palmer et al. , 1989 ; Neal et al. , 1991 -RRB- .	M
+20	This paper describes a practical `` black-box '' methodology for automatic evaluation of question-answering NL systems .	MT
+21	While each new application domain will require some development of special resources , the heart of the methodology is domain-independent , and it can be used with either speech or text input .	O
+22	The particular characteristics of the approach are described in the following section : subsequent sections present its implementation in the DARPA SLS community , and some problems and directions for future development .	M
+23	It is often assumed that when natural language processing meets the real world , the ideal of aiming for complete and correct interpretations has to be abandoned .	MT
+24	However , our experience with TACITUS ; especially in the MUC-3 evaluation , has shown that principled techniques for syntactic and pragmatic analysis can be bolstered with methods for achieving robustness .	MT
+25	We describe three techniques for making syntactic analysis more robust -- an agenda-based scheduling parser , a recovery technique for failed parses , and a new technique called terminal substring parsing .	MT
+26	For pragmatics processing , we describe how the method of abductive inference is inherently robust , in that an interpretation is always possible , so that in the absence of the required world knowledge , performance degrades gracefully .	T
+27	Each of these techniques have been evaluated and the results of the evaluations are presented .	O
+28	We present an efficient algorithm for chart-based phrase structure parsing of natural language that is tailored to the problem of extracting specific information from unrestricted texts where many of the words are unknown and much of the text is irrelevant to the task .	T
+29	The parser gains algorithmic efficiency through a reduction of its search space .	MT
+30	As each new edge is added to the chart , the algorithm checks only the topmost of the edges adjacent to it , rather than all such edges as in conventional treatments .	O
+31	The resulting spanning edges are insured to be the correct ones by carefully controlling the order in which edges are introduced so that every final constituent covers the longest possible span .	O
+32	This is facilitated through the use of phrase boundary heuristics based on the placement of function words , and by heuristic rules that permit certain kinds of phrases to be deduced despite the presence of unknown words .	MT
+33	A further reduction in the search space is achieved by using semantic rather than syntactic categories on the terminal and non-terminal edges , thereby reducing the amount of ambiguity and thus the number of edges , since only edges with a valid semantic interpretation are ever introduced .	MT
+34	Methods developed for spelling correction for languages like English -LRB- see the review by Kukich -LRB- Kukich , 1992 -RRB- -RRB- are not readily applicable to agglutinative languages .	T
+35	This poster presents an approach to spelling correction in agglutinative languages that is based on two-level morphology and a dynamic-programming based search algorithm .	MT
+36	After an overview of our approach , we present results from experiments with spelling correction in Turkish .	T
+37	We focus on the problem of building large repositories of lexical conceptual structure -LRB- LCS -RRB- representations for verbs in multiple languages .	T
+38	One of the main results of this work is the definition of a relation between broad semantic classes and LCS meaning components .	O
+39	Our acquisition program - LEXICALL - takes , as input , the result of previous work on verb classification and thematic grid tagging , and outputs LCS representations for different languages .	MT
+40	These representations have been ported into English , Arabic and Spanish lexicons , each containing approximately 9000 verbs .	M
+41	We are currently using these lexicons in an operational foreign language tutoring and machine translation .	T
+42	In this paper , we want to show how the morphological component of an existing NLP-system for Dutch -LRB- Dutch Medical Language Processor - DMLP -RRB- has been extended in order to produce output that is compatible with the language independent modules of the LSP-MLP system -LRB- Linguistic String Project - Medical Language Processor -RRB- of the New York University .	MT
+43	The former can take advantage of the language independent developments of the latter , while focusing on idiosyncrasies for Dutch .	O
+44	This general strategy will be illustrated by a practical application , namely the highlighting of relevant information in a patient discharge summary -LRB- PDS -RRB- by means of modern HyperText Mark-Up Language -LRB- HTML -RRB- technology .	MT
+45	Such an application can be of use for medical administrative purposes in a hospital environment .	T
+46	In this paper we present a statistical profile of the Named Entity task , a specific information extraction task for which corpora in several languages are available .	T
+47	Using the results of the statistical analysis , we propose an algorithm for lower bound estimation for Named Entity corpora and discuss the significance of the cross-lingual comparisons provided by the analysis .	MT
+48	This paper addresses the problem of identifying likely topics of texts by their position in the text .	MT
+49	It describes the automated training and evaluation of an Optimal Position Policy , a method of locating the likely positions of topic-bearing sentences based on genre-specific regularities of discourse structure .	MT
+50	This method can be used in applications such as information retrieval , routing , and text summarization .	T
+51	We investigate the utility of an algorithm for translation lexicon acquisition -LRB- SABLE -RRB- , used previously on a very large corpus to acquire general translation lexicons , when that algorithm is applied to a much smaller corpus to produce candidates for domain-specific translation lexicons .	T
+52	We describe a novel technique and implemented system for constructing a subcategorization dictionary from textual corpora .	T
+53	Each dictionary entry encodes the relative frequency of occurrence of a comprehensive set of subcategorization classes for English .	O
+54	An initial experiment , on a sample of 14 verbs which exhibit multiple complementation patterns , demonstrates that the technique achieves accuracy comparable to previous approaches , which are all limited to a highly restricted set of subcategorization classes .	M
+55	We also demonstrate that a subcategorization dictionary built with the system improves the accuracy of a parser by an appreciable amount	MT
+56	Multimodal interfaces require effective parsing and understanding of utterances whose content is distributed across multiple input modes .	M
+57	Johnston 1998 presents an approach in which strategies for multimodal integration are stated declaratively using a unification-based grammar that is used by a multidimensional chart parser to compose inputs .	MT
+58	This approach is highly expressive and supports a broad class of interfaces , but offers only limited potential for mutual compensation among the input modes , is subject to significant concerns in terms of computational complexity , and complicates selection among alternative multimodal interpretations of the input .	MT
+59	In this paper , we present an alternative approach in which multimodal parsing and understanding are achieved using a weighted finite-state device which takes speech and gesture streams as inputs and outputs their joint interpretation .	MT
+60	This approach is significantly more efficient , enables tight-coupling of multimodal understanding with speech recognition , and provides a general probabilistic framework for multimodal ambiguity resolution .	MT
+61	This paper describes to what extent deep processing may benefit from shallow techniques and it presents a NLP system which integrates a linguistic PoS tagger and chunker as a preprocessing module of a broad coverage unification based grammar of Spanish .	MT
+62	Experiments show that the efficiency of the overall analysis improves significantly and that our system also provides robustness to the linguistic processing while maintaining both the accuracy and the precision of the grammar .	MT
+63	This paper describes an unsupervised learning method for associative relationships between verb phrases , which is important in developing reliable Q&A systems .	MT
+64	Consider the situation that a user gives a query `` How much petrol was imported to Japan from Saudi Arabia ? ''	O
+65	to a Q&A system , but the text given to the system includes only the description `` X tonnes of petrol was conveyed to Japan from Saudi Arabia '' .	M
+66	We think that the description is a good clue to find the answer for our query , `` X tonnes '' .	T
+67	But there is no large-scale database that provides the associative relationship between `` imported '' and `` conveyed '' .	O
+68	Our aim is to develop an unsupervised learning method that can obtain such an associative relationship , which we call scenario consistency .	MT
+69	The method we are currently working on uses an expectation-maximization -LRB- EM -RRB- based word-clustering algorithm , and we have evaluated the effectiveness of this method using Japanese verb phrases .	M
+70	Statistical language modeling remains a challenging task , in particular for morphologically rich languages .	T
+71	Recently , new approaches based on factored language models have been developed to address this problem .	M
+72	These models provide principled ways of including additional conditioning variables other than the preceding words , such as morphological or syntactic features .	T
+73	However , the number of possible choices for model parameters creates a large space of models that can not be searched exhaustively .	O
+74	This paper presents an entirely data-driven model selection procedure based on genetic search , which is shown to outperform both knowledge-based and random selection procedures on two different language modeling tasks -LRB- Arabic and Turkish -RRB- .	MT
+75	An efficient bit-vector-based CKY-style parser for context-free parsing is presented .	MT
+76	The parser computes a compact parse forest representation of the complete set of possible analyses for large treebank grammars and long input sentences .	MT
+77	The parser uses bit-vector operations to parallelise the basic parsing operations .	MT
+78	The parser is particularly useful when all analyses are needed rather than just the most probable one .	M
+79	Empirical experience and observations have shown us when powerful and highly tunable classifiers such as maximum entropy classifiers , boosting and SVMs are applied to language processing tasks , it is possible to achieve high accuracies , but eventually their performances all tend to plateau out at around the same point .	MT
+80	To further improve performance , various error correction mechanisms have been developed , but in practice , most of them can not be relied on to predictably improve performance on unseen data ; indeed , depending upon the test set , they are as likely to degrade accuracy as to improve it .	MT
+81	This problem is especially severe if the base classifier has already been finely tuned .	M
+82	In recent work , we introduced N-fold Templated Piped Correction , or NTPC -LRB- `` nitpick '' -RRB- , an intriguing error corrector that is designed to work in these extreme operating conditions .	M
+83	Despite its simplicity , it consistently and robustly improves the accuracy of existing highly accurate base models .	T
+84	This paper investigates some of the more surprising claims made by NTPC , and presents experiments supporting an Occam 's Razor argument that more complex models are damaging or unnecessary in practice .	M
+85	The work presented in this paper is the first step in a project which aims to cluster and summarise electronic discussions in the context of help-desk applications .	T
+86	The eventual objective of this project is to use these summaries to assist help-desk users and operators .	T
+87	In this paper , we identify features of electronic discussions that influence the clustering process , and offer a filtering mechanism that removes undesirable influences .	MT
+88	We tested the clustering and filtering processes on electronic newsgroup discussions , and evaluated their performance by means of two experiments : coarse-level clustering simple information retrieval .	MT
+89	We present a new HMM tagger that exploits context on both sides of a word to be tagged , and evaluate it in both the unsupervised and supervised case .	MT
+90	Along the way , we present the first comprehensive comparison of unsupervised methods for part-of-speech tagging , noting that published results to date have not been comparable across corpora or lexicons .	T
+91	Observing that the quality of the lexicon greatly impacts the accuracy that can be achieved by the algorithms , we present a method of HMM training that improves accuracy when training of lexical probabilities is unstable .	MT
+92	Finally , we show how this new tagger achieves state-of-the-art results in a supervised , non-training intensive framework .	M
+93	We propose a detection method for orthographic variants caused by transliteration in a large corpus .	MT
+94	The method employs two similarities .	M
+95	One is string similarity based on edit distance .	M
+96	The other is contextual similarity by a vector space model .	M
+97	Experimental results show that the method performed a 0.889 F-measure in an open test .	M
+98	In this paper , we present a corpus-based supervised word sense disambiguation -LRB- WSD -RRB- system for Dutch which combines statistical classification -LRB- maximum entropy -RRB- with linguistic information .	M
+99	Instead of building individual classifiers per ambiguous wordform , we introduce a lemma-based approach .	M
+100	The advantage of this novel method is that it clusters all inflected forms of an ambiguous word in one classifier , therefore augmenting the training material available to the algorithm .	MT
+101	Testing the lemma-based model on the Dutch Senseval-2 test data , we achieve a significant increase in accuracy over the wordform model .	M
+102	Also , the WSD system based on lemmas is smaller and more robust .	M
+103	The paper presents a method for word sense disambiguation based on parallel corpora .	MT
+104	The method exploits recent advances in word alignment and word clustering based on automatic extraction of translation equivalents and being supported by available aligned wordnets for the languages in the corpus .	MT
+105	The wordnets are aligned to the Princeton Wordnet , according to the principles established by EuroWordNet .	M
+106	The evaluation of the WSD system , implementing the method described herein showed very encouraging results .	T
+107	The same system used in a validation mode , can be used to check and spot alignment errors in multilingually aligned wordnets as BalkaNet and EuroWordNet .	MT
+108	This paper shows that it is very often possible to identify the source language of medium-length speeches in the EUROPARL corpus on the basis of frequency counts of word n-grams -LRB- 87.2 % -96.7 % accuracy depending on classification method -RRB- .	MT
+109	The paper also examines in detail which positive markers are most powerful and identifies a number of linguistic aspects as well as culture - and domain-related ones .	MT
+110	Words in Chinese text are not naturally separated by delimiters , which poses a challenge to standard machine translation -LRB- MT -RRB- systems .	M
+111	In MT , the widely used approach is to apply a Chinese word segmenter trained from manually annotated data , using a fixed lexicon .	MT
+112	Such word segmentation is not necessarily optimal for translation .	MT
+113	We propose a Bayesian semi-supervised Chinese word segmentation model which uses both monolingual and bilingual information to derive a segmentation suitable for MT .	MT
+114	Experiments show that our method improves a state-of-the-art MT system in a small and a large data environment .	O
+115	In order to meet the needs of a publication of papers in English , many systems to run off texts have been developed .	T
+116	In this paper , we report a system FROFF which can make a fair copy of not only texts but also graphs and tables indispensable to our papers .	MT
+117	Its selection of fonts , specification of character size are dynamically changeable , and the typing location can be also changed in lateral or longitudinal directions .	O
+118	Each character has its own width and a line length is counted by the sum of each character .	O
+119	By using commands or rules which are defined to facilitate the construction of format expected or some mathematical expressions , elaborate and pretty documents can be successfully obtained .	T
+120	This paper proposes a series of modifications to the left corner parsing algorithm for context-free grammars .	M
+121	It is argued that the resulting algorithm is both efficient and flexible and is , therefore , a good choice for the parser used in a natural language interface .	M
+122	The interlingual approach to MT has been repeatedly advocated by researchers originally interested in natural language understanding who take machine translation to be one possible application .	MT
+123	However , not only the ambiguity but also the vagueness which every natural language inevitably has leads this approach into essential difficulties .	M
+124	In contrast , our project , the Mu-project , adopts the transfer approach as the basic framework of MT .	MT
+125	This paper describes the detailed construction of the transfer phase of our system from Japanese to English , and gives some examples of problems which seem difficult to treat in the interlingual approach .	MT
+126	The basic design principles of the transfer phase of our system have already been mentioned in -LRB- 1 -RRB- -LRB- 2 -RRB- .	O
+127	Some of the principles which are relevant to the topic of this paper are : -LRB- a -RRB- Multiple Layer of Grammars -LRB- b -RRB- Multiple Layer Presentation -LRB- c -RRB- Lexicon Driven Processing -LRB- d -RRB- Form-Oriented Dictionary Description .	M
+128	This paper also shows how these principles are realized in the current system .	O
+129	How to obtain hierarchical relations -LRB- e.g. superordinate - hyponym relation , synonym relation -RRB- is one of the most important problems for thesaurus construction .	T
+130	A pilot system for extracting these relations automatically from an ordinary Japanese language dictionary -LRB- Shinmeikai Kokugojiten , published by Sansei-do , in machine readable form -RRB- is given .	T
+131	The features of the definition sentences in the dictionary , the mechanical extraction of the hierarchical relations and the estimation of the results are discussed .	T
+132	This paper describes a system -LRB- RAREAS -RRB- which synthesizes marine weather forecasts directly from formatted weather data .	T
+133	Such synthesis appears feasible in certain natural sublanguages with stereotyped text structure .	O
+134	RAREAS draws on several kinds of linguistic and non-linguistic knowledge and mirrors a forecaster 's apparent tendency to ascribe less precise temporal adverbs to more remote meteorological events .	M
+135	The approach can easily be adapted to synthesize bilingual or multi-lingual texts .	T
+136	This paper discusses the application of Unification Categorial Grammar -LRB- UCG -RRB- to the framework of Isomorphic Grammars for Machine Translation pioneered by Landsbergen .	MT
+137	The Isomorphic Grammars approach to MT involves developing the grammars of the Source and Target languages in parallel , in order to ensure that SL and TL expressions which stand in the translation relation have isomorphic derivations .	MT
+138	The principle advantage of this approach is that knowledge concerning translation equivalence of expressions may be directly exploited , obviating the need for answers to semantic questions that we do not yet have .	M
+139	Semantic and other information may still be incorporated , but as constraints on the translation relation , not as levels of textual representation .	M
+140	After introducing this approach to MT system design , and the basics of monolingual UCG , we will show how the two can be integrated , and present an example from an implemented bi-directional English-Spanish fragment .	MT
+141	Finally we will present some outstanding problems with the approach .	O
+142	Soames 1979 provides some counterexamples to the theory of natural language presuppositions that is presented in Gazdar 1979 .	T
+143	Soames 1982 provides a theory which explains these counterexamples .	O
+144	Mercer 1987 rejects the solution found in Soames 1982 leaving these counterexamples unexplained .	O
+145	By reappraising these insightful counterexamples , the inferential theory for natural language presuppositions described in Mercer 1987 , 1988 gives a simple and straightforward explanation for the presuppositional nature of these sentences .	MT
+146	We have developed a computational model of the process of describing the layout of an apartment or house , a much-studied discourse task first characterized linguistically by Linde -LRB- 1974 -RRB- .	MT
+147	The model is embodied in a program , APT , that can reproduce segments of actual tape-recorded descriptions , using organizational and discourse strategies derived through analysis of our corpus .	MT
+148	Chart parsing is directional in the sense that it works from the starting point -LRB- usually the beginning of the sentence -RRB- extending its activity usually in a rightward manner .	M
+149	We shall introduce the concept of a chart that works outward from islands and makes sense of as much of the sentence as it is actually possible , and after that will lead to predictions of missing fragments .	O
+150	So , for any place where the easily identifiable fragments occur in the sentence , the process will extend to both the left and the right of the islands , until possibly completely missing fragments are reached .	O
+151	At that point , by virtue of the fact that both a left and a right context were found , heuristics can be introduced that predict the nature of the missing fragments .	MT
+152	Computer programs so far have not fared well in modeling language acquisition .	O
+153	For one thing , learning methodology applicable in general domains does not readily lend itself in the linguistic domain .	M
+154	For another , linguistic representation used by language processing systems is not geared to learning .	M
+155	We introduced a new linguistic representation , the Dynamic Hierarchical Phrasal Lexicon -LRB- DHPL -RRB- -LSB- Zernik88 -RSB- , to facilitate language acquisition .	MT
+156	From this , a language learning model was implemented in the program RINA , which enhances its own lexical hierarchy by processing examples in context .	M
+157	We identified two tasks : First , how linguistic concepts are acquired from training examples and organized in a hierarchy ; this task was discussed in previous papers -LSB- Zernik87 -RSB- .	O
+158	Second , we show in this paper how a lexical hierarchy is used in predicting new linguistic concepts .	MT
+159	Thus , a program does not stall even in the presence of a lexical unknown , and a hypothesis can be produced for covering that lexical gap .	O
+160	Although every natural language system needs a computational lexicon , each system puts different amounts and types of information into its lexicon according to its individual needs .	M
+161	However , some of the information needed across systems is shared or identical information .	O
+162	This paper presents our experience in planning and building COMPLEX , a computational lexicon designed to be a repository of shared lexical information for use by Natural Language Processing -LRB- NLP -RRB- systems .	MT
+163	We have drawn primarily on explicit and implicit information from machine-readable dictionaries -LRB- MRD 's -RRB- to create a broad coverage lexicon .	MT
+164	A deterministic parser is under development which represents a departure from traditional deterministic parsers in that it combines both symbolic and connectionist components .	MT
+165	The connectionist component is trained either from patterns derived from the rules of a deterministic grammar .	M
+166	The development and evolution of such a hybrid architecture has lead to a parser which is superior to any known deterministic parser .	M
+167	Experiments are described and powerful training techniques are demonstrated that permit decision-making by the connectionist component in the parsing process .	MT
+168	This approach has permitted some simplifications to the rules of other deterministic parsers , including the elimination of rule packets and priorities .	T
+169	Furthermore , parsing is performed more robustly and with more tolerance for error .	T
+170	Data are presented which show how a connectionist -LRB- neural -RRB- network trained with linguistic rules can parse both expected -LRB- grammatical -RRB- sentences as well as some novel -LRB- ungrammatical or lexically ambiguous -RRB- sentences .	MT
+171	This article introduces a bidirectional grammar generation system called feature structure-directed generation , developed for a dialogue translation system .	M
+172	The system utilizes typed feature structures to control the top-down derivation in a declarative way .	MT
+173	This generation system also uses disjunctive feature structures to reduce the number of copies of the derivation tree .	MT
+174	The grammar for this generator is designed to properly generate the speaker 's intention in a telephone dialogue .	T
+175	This paper proposes document oriented preference sets -LRB- DoPS -RRB- for the disambiguation of the dependency structure of sentences .	MT
+176	The DoPS system extracts preference knowledge from a target document or other documents automatically .	MT
+177	Sentence ambiguities can be resolved by using domain targeted preference knowledge without using complicated large knowledgebases .	MT
+178	Implementation and empirical results are described for the the analysis of dependency structures of Japanese patent claim sentences .	T
+179	This paper examines the properties of feature-based partial descriptions built on top of Halliday 's systemic networks .	MT
+180	We show that the crucial operation of consistency checking for such descriptions is NP-complete , and therefore probably intractable , but proceed to develop algorithms which can sometimes alleviate the unpleasant consequences of this intractability .	T
+181	This paper proposes that sentence analysis should be treated as defeasible reasoning , and presents such a treatment for Japanese sentence analyses using an argumentation system by Konolige , which is a formalization of defeasible reasoning , that includes arguments and defeat rules that capture defeasibility .	MT
+182	Spelling-checkers have become an integral part of most text processing software .	M
+183	From different reasons among which the speed of processing prevails they are usually based on dictionaries of word forms instead of words .	O
+184	This approach is sufficient for languages with little inflection such as English , but fails for highly inflective languages such as Czech , Russian , Slovak or other Slavonic languages .	O
+185	We have developed a special method for describing inflection for the purpose of building spelling-checkers for such languages .	T
+186	The speed of the resulting program lies somewhere in the middle of the scale of existing spelling-checkers for English and the main dictionary fits into the standard 360K floppy , whereas the number of recognized word forms exceeds 6 million -LRB- for Czech -RRB- .	M
+187	Further , a special method has been developed for easy word classification .	T
+188	In this paper discourse segments are defined and a method for discourse segmentation primarily based on abduction of temporal relations between segments is proposed .	MT
+189	This method is precise and computationally feasible and is supported by previous work in the area of temporal anaphora resolution .	T
+190	In this paper , a discrimination and robustness oriented adaptive learning procedure is proposed to deal with the task of syntactic ambiguity resolution .	MT
+191	Owing to the problem of insufficient training data and approximation error introduced by the language model , traditional statistical approaches , which resolve ambiguities by indirectly and implicitly using maximum likelihood method , fail to achieve high performance in real applications .	MT
+192	The proposed method remedies these problems by adjusting the parameters to maximize the accuracy rate directly .	MT
+193	To make the proposed algorithm robust , the possible variations between the training corpus and the real tasks are also taken into consideration by enlarging the separation margin between the correct candidate and its competing members .	MT
+194	Significant improvement has been observed in the test .	O
+195	The accuracy rate of syntactic disambiguation is raised from 46.0 % to 60.62 % by using this novel approach .	MT
+196	Graph unification remains the most expensive part of unification-based grammar parsing .	T
+197	We focus on one speed-up element in the design of unification algorithms : avoidance of copying of unmodified subgraphs .	T
+198	We propose a method of attaining such a design through a method of structure-sharing which avoids log -LRB- d -RRB- overheads often associated with structure-sharing of graphs without any use of costly dependency pointers .	MT
+199	The proposed scheme eliminates redundant copying while maintaining the quasi-destructive scheme 's ability to avoid over copying and early copying combined with its ability to handle cyclic structures without algorithmic additions .	MT
+200	The transfer phase in machine translation -LRB- MT -RRB- systems has been considered to be more complicated than analysis and generation , since it is inherently a conglomeration of individual lexical rules .	M
+201	Currently some attempts are being made to use case-based reasoning in machine translation , that is , to make decisions on the basis of translation examples at appropriate pints in MT .	MT
+202	This paper proposes a new type of transfer system , called a Similarity-driven Transfer System -LRB- SimTran -RRB- , for use in such case-based MT -LRB- CBMT -RRB- .	MT
+203	This paper introduces a robust interactive method for speech understanding .	MT
+204	The generalized LR parsing is enhanced in this approach .	T
+205	Parsing proceeds from left to right correcting minor errors .	MT
+206	When a very noisy portion is detected , the parser skips that portion using a fake non-terminal symbol .	M
+207	The unidentified portion is resolved by re-utterance of that portion which is parsed very efficiently by using the parse record of the first utterance .	MT
+208	The user does not have to speak the whole sentence again .	O
+209	This method is also capable of handling unknown words , which is important in practical systems .	T
+210	Detected unknown words can be incrementally incorporated into the dictionary after the interaction with the user .	O
+211	A pilot system has shown great effectiveness of this approach .	O
+212	Word Identification has been an important and active issue in Chinese Natural Language Processing .	T
+213	In this paper , a new mechanism , based on the concept of sublanguage , is proposed for identifying unknown words , especially personal names , in Chinese newspapers .	MT
+214	The proposed mechanism includes title-driven name recognition , adaptive dynamic word formation , identification of 2-character and 3-character Chinese names without title .	M
+215	We will show the experimental results for two corpora and compare them with the results by the NTHU 's statistic-based system , the only system that we know has attacked the same problem .	M
+216	The experimental results have shown significant improvements over the WI systems without the name identification capability .	M
+217	This paper describes the understanding process of the spatial descriptions in Japanese .	M
+218	In order to understand the described world , the authors try to reconstruct the geometric model of the global scene from the scenic descriptions drawing a space .	MT
+219	It is done by an experimental computer program SPRINT , which takes natural language texts and produces a model of the described world .	MT
+220	To reconstruct the model , the authors extract the qualitative spatial constraints from the text , and represent them as the numerical constraints on the spatial attributes of the entities .	MT
+221	This makes it possible to express the vagueness of the spatial concepts and to derive the maximally plausible interpretation from a chunk of information accumulated as the constraints .	T
+222	The interpretation reflects the temporary belief about the world .	O
+223	This paper describes a characters-based Chinese collocation system and discusses the advantages of it over a traditional word-based system .	M
+224	Since wordbreaks are not conventionally marked in Chinese text corpora , a character-based collocation system has the dual advantages of avoiding pre-processing distortion and directly accessing sub-lexical information .	MT
+225	Furthermore , word-based collocational properties can be obtained through an auxiliary module of automatic segmentation .	MT
+226	This paper addresses the issue of word-sense ambiguity in extraction from machine-readable resources for the construction of large-scale knowledge sources .	T
+227	We describe two experiments : one which ignored word-sense distinctions , resulting in 6.3 % accuracy for semantic classification of verbs based on -LRB- Levin , 1993 -RRB- ; and one which exploited word-sense distinctions , resulting in 97.9 % accuracy .	MT
+228	These experiments were dual purpose : -LRB- 1 -RRB- to validate the central thesis of the work of -LRB- Levin , 1993 -RRB- , i.e. , that verb semantics and syntactic behavior are predictably related ; -LRB- 2 -RRB- to demonstrate that a 15-fold improvement can be achieved in deriving semantic information from syntactic cues if we first divide the syntactic cues into distinct groupings that correlate with different word senses .	O
+229	Finally , we show that we can provide effective acquisition techniques for novel word senses using a combination of online sources .	M
+230	Porting a Natural Language Processing -LRB- NLP -RRB- system to a new domain remains one of the bottlenecks in syntactic parsing , because of the amount of effort required to fix gaps in the lexicon , and to attune the existing grammar to the idiosyncracies of the new sublanguage .	T
+231	This paper shows how the process of fitting a lexicalized grammar to a domain can be automated to a great extent by using a hybrid system that combines traditional knowledge-based techniques with a corpus-based approach .	MT
+232	In this paper we study a set of problems that are of considerable importance to Statistical Machine Translation -LRB- SMT -RRB- but which have not been addressed satisfactorily by the SMT research community .	T
+233	Over the last decade , a variety of SMT algorithms have been built and empirically tested whereas little is known about the computational complexity of some of the fundamental problems of SMT .	MT
+234	Our work aims at providing useful insights into the the computational complexity of those problems .	M
+235	We prove that while IBM Models 1-2 are conceptually and computationally simple , computations involving the higher -LRB- and more useful -RRB- models are hard .	M
+236	Since it is unlikely that there exists a polynomial time solution for any of these hard problems -LRB- unless P = NP and P # P = P -RRB- , our results highlight and justify the need for developing polynomial time approximations for these computations .	M
+237	We also discuss some practical ways of dealing with complexity .	T
+238	In this paper a novel solution to automatic and unsupervised word sense induction -LRB- WSI -RRB- is introduced .	T
+239	It represents an instantiation of the one sense per collocation observation -LRB- Gale et al. , 1992 -RRB- .	O
+240	Like most existing approaches it utilizes clustering of word co-occurrences .	M
+241	This approach differs from other approaches to WSI in that it enhances the effect of the one sense per collocation observation by using triplets of words instead of pairs .	MT
+242	The combination with a two-step clustering process using sentence co-occurrences as features allows for accurate results .	M
+243	Additionally , a novel and likewise automatic and unsupervised evaluation method inspired by Schutze 's -LRB- 1992 -RRB- idea of evaluation of word sense disambiguation algorithms is employed .	M
+244	Offering advantages like reproducability and independency of a given biased gold standard it also enables automatic parameter optimization of the WSI algorithm .	T
+245	Most state-of-the-art evaluation measures for machine translation assign high costs to movements of word blocks .	MT
+246	In many cases though such movements still result in correct or almost correct sentences .	O
+247	In this paper , we will present a new evaluation measure which explicitly models block reordering as an edit operation .	MT
+248	Our measure can be exactly calculated in quadratic time .	O
+249	Furthermore , we will show how some evaluation measures can be improved by the introduction of word-dependent substitution costs .	M
+250	The correlation of the new measure with human judgment has been investigated systematically on two different language pairs .	O
+251	The experimental results will show that it significantly outperforms state-of-the-art approaches in sentence-level correlation .	M
+252	Results from experiments with word dependent substitution costs will demonstrate an additional increase of correlation between automatic evaluation measures and human judgment .	M
+253	In this paper , we investigate the problem of automatically predicting segment boundaries in spoken multiparty dialogue .	T
+254	We extend prior work in two ways .	O
+255	We first apply approaches that have been proposed for predicting top-level topic shifts to the problem of identifying subtopic boundaries .	T
+256	We then explore the impact on performance of using ASR output as opposed to human transcription .	M
+257	Examination of the effect of features shows that predicting top-level and predicting subtopic boundaries are two distinct tasks : -LRB- 1 -RRB- for predicting subtopic boundaries , the lexical cohesion-based approach alone can achieve competitive results , -LRB- 2 -RRB- for predicting top-level boundaries , the machine learning approach that combines lexical-cohesion and conversational features performs best , and -LRB- 3 -RRB- conversational cues , such as cue phrases and overlapping speech , are better indicators for the top-level prediction task .	MT
+258	We also find that the transcription errors inevitable in ASR output have a negative impact on models that combine lexical-cohesion and conversational features , but do not change the general preference of approach for the two tasks .	O
+259	We describe an implementation of data-driven selection of emphatic facial displays for an embodied conversational agent in a dialogue system .	T
+260	A corpus of sentences in the domain of the target dialogue system was recorded , and the facial displays used by the speaker were annotated .	M
+261	The data from those recordings was used in a range of models for generating facial displays , each model making use of a different amount of context or choosing displays differently within a context .	T
+262	The models were evaluated in two ways : by cross-validation against the corpus , and by asking users to rate the output .	M
+263	The predictions of the cross-validation study differed from the actual user ratings .	M
+264	While the cross-validation gave the highest scores to models making a majority choice within a context , the user study showed a significant preference for models that produced more variation .	M
+265	This preference was especially strong among the female subjects .	O
+266	This article deals with the interpretation of conceptual operations underlying the communicative use of natural language -LRB- NL -RRB- within the Structured Inheritance Network -LRB- SI-Nets -RRB- paradigm .	MT
+267	The operations are reduced to functions of a formal language , thus changing the level of abstraction of the operations to be performed on SI-Nets .	M
+268	In this sense , operations on SI-Nets are not merely isomorphic to single epistemological objects , but can be viewed as a simulation of processes on a different level , that pertaining to the conceptual system of NL .	M
+269	For this purpose , we have designed a version of KL-ONE which represents the epistemological level , while the new experimental language , KL-Conc , represents the conceptual level .	M
+270	KL-Conc would seem to be a more natural and intuitive way of interacting with SI-Nets .	M
+271	In this paper a system which understands and conceptualizes scenes descriptions in natural language is presented .	T
+272	Specifically , the following components of the system are described : the syntactic analyzer , based on a Procedural Systemic Grammar , the semantic analyzer relying on the Conceptual Dependency Theory , and the dictionary .	M
+273	This paper reports a completed stage of ongoing research at the University of York .	O
+274	Landsbergen 's advocacy of analytical inverses for compositional syntax rules encourages the application of Definite Clause Grammar techniques to the construction of a parser returning Montague analysis trees .	MT
+275	A parser MDCC is presented which implements an augmented Friedman - Warren algorithm permitting post referencing * and interfaces with a language of intenslonal logic translator LILT so as to display the derivational history of corresponding reduced IL formulae .	MT
+276	Some familiarity with Montague 's PTQ and the basic DCG mechanism is assumed .	M
+277	Systemic grammar has been used for AI text generation work in the past , but the implementations have tended be ad hoc or inefficient .	MT
+278	This paper presents an approach to systemic text generation where AI problem solving techniques are applied directly to an unadulterated systemic grammar .	MT
+279	This approach is made possible by a special relationship between systemic grammar and problem solving : both are organized primarily as choosing from alternatives .	M
+280	The result is simple , efficient text generation firmly based in a linguistic theory .	MT
+281	We propose a draft scheme of the model formalizing the structure of communicative context in dialogue interaction .	T
+282	The relationships between the interacting partners are considered as system of three automata representing the partners of the dialogue and environment .	O
+283	Currently several grammatical formalisms converge towards being declarative and towards utilizing context-free phrase-structure grammar as a backbone , e.g. LFG and PATR-II .	M
+284	Typically the processing of these formalisms is organized within a chart-parsing framework .	M
+285	The declarative character of the formalisms makes it important to decide upon an overall optimal control strategy on the part of the processor .	M
+286	In particular , this brings the rule-invocation strategy into critical focus : to gain maximal processing efficiency , one has to determine the best way of putting the rules to use .	M
+287	The aim of this paper is to provide a survey and a practical comparison of fundamental rule-invocation strategies within context-free chart parsing .	T
+288	The verb forms are often claimed to convey two kinds of information : 1 .	O
+289	whether the event described in a sentence is present , past or future -LRB- = deictic information -RRB- 2 .	O
+290	whether the event described in a sentence is presented as completed , going on , just starting or being finished -LRB- = aspectual information -RRB- .	O
+291	It will be demonstrated in this paper that one has to add a third component to the analysis of verb form meanings , namely whether or not they express habituality .	T
+292	The framework of the analysis is model-theoretic semantics .	M
+293	A proposal to deal with French tenses in the framework of Discourse Representation Theory is presented , as it has been implemented for a fragment at the IMS .	MT
+294	It is based on the theory of tenses of H. Kamp and Ch .	O
+295	Rohrer .	O
+296	Instead of using operators to express the meaning of the tenses the Reichenbachian point of view is adopted and refined such that the impact of the tenses with respect to the meaning of the text is understood as contribution to the integration of the events of a sentence in the event structure of the preceeding text .	O
+297	Thereby a system of relevant times provided by the preceeding text and by the temporal adverbials of the sentence being processed is used .	M
+298	This system consists of one or more reference times and temporal perspective times , the speech time and the location time .	O
+299	The special interest of our proposal is to establish a plausible choice of anchors for the new event out of the system of relevant times and to update this system of temporal coordinates correctly .	M
+300	The problem of choice is largely neglected in the literature .	O
