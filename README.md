@@ -1,5 +1,8 @@
 # Extracting Problem and Method Sentence from Scientific Papers
-This folder is the code and data sample for the paper "Extracting Problem and Method Sentence from Scientific Papers: A Context-enhanced Transformer Using Formulaic Expression Desensitization".
+
+## Overview
+
+**Dataset and source code for paper "Extracting Problem and Method Sentence from Scientific Papers: A Context-enhanced Transformer Using Formulaic Expression Desensitization".**
 
 ## There is the structure of this folder:
 > -   FE select: code and data for FE selection and data augmentation
@@ -55,3 +58,9 @@ use <code>python acl_annoAugment.py</code>
 use 
 *  <code>python getFEsPattern.py</code>
 *  <code>python acl_annoAugment.py</code> and select unigramFE Augmenter in the code
+
+
+## Citation
+Please cite the following paper if you use this code and dataset in your work.
+    
+>Yingyi Zhang, Chengzhi Zhang\*. Extracting Problem and Method Sentence from Scientific Papers: A Context-enhanced Transformer Using Formulaic Expression Desensitization. ***Scientometrics***, 2024. （in press)  [[doi]])  [[Dataset & Source Code]](https://github.com/YingyiZhang/sentence-extraction-from-scientific-paper) 
