@@ -4,7 +4,7 @@
 
 **Dataset and source code for paper "Extracting Problem and Method Sentence from Scientific Papers: A Context-enhanced Transformer Using Formulaic Expression Desensitization".**
 
-## There is the structure of this folder:
+## Directory structure
 > -   FE select: code and data for FE selection and data augmentation
 >> -   FES: Data used for FE selection
 >>> *   Iwatsuki-2021-EACL: The dataset provided by Iwatsuki & Aizawa (2021). The N-gram FE are selected from this dataset.
