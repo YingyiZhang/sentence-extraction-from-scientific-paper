@@ -1,4 +1,4 @@
-# sentence-extraction-from-scientific-paper
+# Extracting Problem and Method Sentence from Scientific Papers
 This folder is the code and data sample for the paper "Extracting Problem and Method Sentence from Scientific Papers: A Context-enhanced Transformer Using Formulaic Expression Desensitization".
 
 ## There is the structure of this folder:
