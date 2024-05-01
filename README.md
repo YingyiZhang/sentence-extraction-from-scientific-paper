@@ -33,7 +33,7 @@
 > -   readme.txt: This file
 
 
-## Dependency package:
+## Dependency package
 1.  torch 1.10.0  
 1.  nlpaug  1.1.10
 1.  transformers  4.24.0
