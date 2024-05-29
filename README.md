@@ -63,4 +63,4 @@ use
 ## Citation
 Please cite the following paper if you use this code and dataset in your work.
     
->Yingyi Zhang, Chengzhi Zhang\*. Extracting Problem and Method Sentence from Scientific Papers: A Context-enhanced Transformer Using Formulaic Expression Desensitization. ***Scientometrics***, 2024. （in press)  [[doi]]()  [[Dataset & Source Code]](https://github.com/YingyiZhang/sentence-extraction-from-scientific-paper) 
+>Yingyi Zhang, Chengzhi Zhang\*. Extracting Problem and Method Sentence from Scientific Papers: A Context-enhanced Transformer Using Formulaic Expression Desensitization. ***Scientometrics***, 2024. （in press)  [[doi]](https://doi.org/10.1007/s11192-024-05048-6)  [[Dataset & Source Code]](https://github.com/YingyiZhang/sentence-extraction-from-scientific-paper) 
